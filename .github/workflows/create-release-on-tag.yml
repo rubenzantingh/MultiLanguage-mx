@@ -28,10 +28,10 @@ jobs:
 
       - name: Create additional ZIP file with new name
         run: |
-          mkdir -p release/MultiLanguage_FR
-          find . -maxdepth 1 -mindepth 1 ! -name 'release' ! -name '.git' ! -name '.github' -exec cp -r {} release/MultiLanguage_FR \;
+          mkdir -p release/MultiLanguage_MX
+          find . -maxdepth 1 -mindepth 1 ! -name 'release' ! -name '.git' ! -name '.github' -exec cp -r {} release/MultiLanguage_MX \;
           cd release
-          zip -r ../MultiLanguage_FR.zip MultiLanguage_FR \
+          zip -r ../MultiLanguage_MX.zip MultiLanguage_MX \
               -x "**/.git/**" \
               -x "**/.github/**" \
               -x "**/.gitattributes" \
@@ -56,8 +56,8 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           upload_url: ${{ steps.create_release.outputs.upload_url }}
-          asset_path: MultiLanguage_FR.zip
-          asset_name: MultiLanguage_FR.zip
+          asset_path: MultiLanguage_MX.zip
+          asset_name: MultiLanguage_MX.zip
           asset_content_type: application/zip
 
       - name: Upload Curseforge file
