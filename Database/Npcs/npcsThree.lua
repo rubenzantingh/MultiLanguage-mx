@@ -7120,7 +7120,7 @@ MultiLanguageNpcData['mx'][129318] = {name = "Cangrejo escaparena", subname = ni
 MultiLanguageNpcData['mx'][129319] = {name = "Guardia de espadas Tarkaj", subname = nil}
 MultiLanguageNpcData['mx'][129320] = {name = "Pollo de Canal Perla (Tormenta)", subname = nil}
 MultiLanguageNpcData['mx'][129321] = {name = "Pollo de Canal Perla (Actual)", subname = nil}
-MultiLanguageNpcData['mx'][129322] = {name = "Reorganizador de atuendos desplegable", subname = nil}
+MultiLanguageNpcData['mx'][129322] = {name = "Reorganizador de atuendos desplegable", subname = "Transfigurador"}
 MultiLanguageNpcData['mx'][129323] = {name = "Emperatriz colmillosable", subname = nil}
 MultiLanguageNpcData['mx'][129324] = {name = "Kill Credit: Revive Tarkaj", subname = nil}
 MultiLanguageNpcData['mx'][129325] = {name = "Kill Credit: Water Tarkaj", subname = nil}
@@ -7594,7 +7594,7 @@ MultiLanguageNpcData['mx'][129867] = {name = "Zepelín bombardero", subname = ni
 MultiLanguageNpcData['mx'][129868] = {name = "Buitre del cañón", subname = nil}
 MultiLanguageNpcData['mx'][129869] = {name = "Comerraíces hambriento", subname = nil}
 MultiLanguageNpcData['mx'][129870] = {name = "Maestro de jabalíes zarzalomo", subname = nil}
-MultiLanguageNpcData['mx'][129871] = {name = "Arator el Redentor", subname = nil}
+MultiLanguageNpcData['mx'][129871] = {name = "Arator", subname = nil}
 MultiLanguageNpcData['mx'][129872] = {name = "Vereesa Brisaveloz", subname = "General Forestal del Pacto de Plata"}
 MultiLanguageNpcData['mx'][129873] = {name = "Centinela de ruinas", subname = nil}
 MultiLanguageNpcData['mx'][129874] = {name = "Trampero infiel", subname = nil}
@@ -31605,7 +31605,7 @@ MultiLanguageNpcData['mx'][156660] = {name = "Capitana Garrick", subname = nil}
 MultiLanguageNpcData['mx'][156661] = {name = "Varlasen", subname = nil}
 MultiLanguageNpcData['mx'][156662] = {name = "Capitana Garrick", subname = nil}
 MultiLanguageNpcData['mx'][156663] = {name = "Tejedor de distorsión Ta'oren", subname = "Transfigurador"}
-MultiLanguageNpcData['mx'][156664] = {name = "Guardabóvedas Ta'khis", subname = "Depósito del Vacío"}
+MultiLanguageNpcData['mx'][156664] = {name = "Guardabóvedas Ta'khis", subname = nil}
 MultiLanguageNpcData['mx'][156665] = {name = "Cazador de almas honorable", subname = nil}
 MultiLanguageNpcData['mx'][156666] = {name = "Herrero Au'berk", subname = "Instructor de herrería"}
 MultiLanguageNpcData['mx'][156667] = {name = "Despellejador Au'khem", subname = "Instructor de desuello"}
@@ -31717,7 +31717,7 @@ MultiLanguageNpcData['mx'][156796] = {name = "Eterio salvaje", subname = nil}
 MultiLanguageNpcData['mx'][156797] = {name = "Kill Credit - Control Point", subname = nil}
 MultiLanguageNpcData['mx'][156798] = {name = "Kill Credit - Control Point Three", subname = nil}
 MultiLanguageNpcData['mx'][156799] = {name = "Henry Garrick", subname = nil}
-MultiLanguageNpcData['mx'][156800] = {name = "Intendente Richter", subname = "Suministros"}
+MultiLanguageNpcData['mx'][156800] = {name = "Intendente Richter", subname = "Suministros y reparaciones"}
 MultiLanguageNpcData['mx'][156801] = {name = "Soldado Cole", subname = nil}
 MultiLanguageNpcData['mx'][156802] = {name = "Bomba rúnica", subname = nil}
 MultiLanguageNpcData['mx'][156803] = {name = "Alaria", subname = nil}
@@ -40975,7 +40975,7 @@ MultiLanguageNpcData['mx'][167209] = {name = "Niall Kugal", subname = nil}
 MultiLanguageNpcData['mx'][167210] = {name = "Tabulador Killham", subname = "Juez de batalla"}
 MultiLanguageNpcData['mx'][167211] = {name = "Extractor de recuerdos", subname = nil}
 MultiLanguageNpcData['mx'][167212] = {name = "Señora de la guerra Breka Hacha Macabra", subname = nil}
-MultiLanguageNpcData['mx'][167213] = {name = "Proveedor Jin'hake", subname = nil}
+MultiLanguageNpcData['mx'][167213] = {name = "Proveedor Jin'hake", subname = "Reparaciones y suministros"}
 MultiLanguageNpcData['mx'][167214] = {name = "Defensor agthiano", subname = nil}
 MultiLanguageNpcData['mx'][167215] = {name = "Mithdran Rastrealba", subname = "Maestro de establos"}
 MultiLanguageNpcData['mx'][167216] = {name = "Bruto Throg", subname = nil}

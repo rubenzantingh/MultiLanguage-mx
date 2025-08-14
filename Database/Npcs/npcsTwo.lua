@@ -1830,7 +1830,7 @@ MultiLanguageNpcData['mx'][67009] = {name = "Alumno monje", subname = nil}
 MultiLanguageNpcData['mx'][67010] = {name = "Psycho Mantid: Tik vs Kree'zot Bunny", subname = nil}
 MultiLanguageNpcData['mx'][67011] = {name = "Bruto de Garrosh'ar", subname = nil}
 MultiLanguageNpcData['mx'][67012] = {name = "Taran Zhu", subname = "Señor del Shadopan"}
-MultiLanguageNpcData['mx'][67013] = {name = "Custodio de la cámara Meelad", subname = "Depósito del vacío"}
+MultiLanguageNpcData['mx'][67013] = {name = "Custodio de la cámara Meelad", subname = nil}
 MultiLanguageNpcData['mx'][67014] = {name = "Tejedor de distorsión Shafiee", subname = "Transfigurador"}
 MultiLanguageNpcData['mx'][67015] = {name = "Alumno monje", subname = nil}
 MultiLanguageNpcData['mx'][67016] = {name = "Torso de estatua antigua", subname = nil}
@@ -17400,9 +17400,9 @@ MultiLanguageNpcData['mx'][85282] = {name = "Cría de lomosol", subname = nil}
 MultiLanguageNpcData['mx'][85285] = {name = "Feezzel Jengigolpe", subname = "Liga de Expedicionarios"}
 MultiLanguageNpcData['mx'][85286] = {name = "Can del Núcleo", subname = nil}
 MultiLanguageNpcData['mx'][85287] = {name = "Ranea Pezuña Larga", subname = "Banquero de hermandad"}
-MultiLanguageNpcData['mx'][85288] = {name = "Custodio de la cámara Maeelthas", subname = "Depósito del Vacío"}
+MultiLanguageNpcData['mx'][85288] = {name = "Custodio de la cámara Maeelthas", subname = nil}
 MultiLanguageNpcData['mx'][85289] = {name = "Tejedor de distorsión Farshlah", subname = "Transfigurador"}
-MultiLanguageNpcData['mx'][85290] = {name = "Custodio de la cámara Sarniv", subname = "Depósito del Vacío"}
+MultiLanguageNpcData['mx'][85290] = {name = "Custodio de la cámara Sarniv", subname = nil}
 MultiLanguageNpcData['mx'][85291] = {name = "Tejedor de distorsión Tuviss", subname = "Transfigurador"}
 MultiLanguageNpcData['mx'][85292] = {name = "Murgtar", subname = nil}
 MultiLanguageNpcData['mx'][85293] = {name = "Stigander Cepoférreo", subname = nil}
@@ -17997,7 +17997,7 @@ MultiLanguageNpcData['mx'][85958] = {name = "Bert Dividemonedas", subname = "Ban
 MultiLanguageNpcData['mx'][85959] = {name = "Ernst ten Bosch", subname = "Maestro de vuelo"}
 MultiLanguageNpcData['mx'][85960] = {name = "Moco sulfúrico", subname = nil}
 MultiLanguageNpcData['mx'][85961] = {name = "Tejedor de distorsión Shal", subname = "Transfigurador"}
-MultiLanguageNpcData['mx'][85962] = {name = "Custodio de la cámara Nizsham", subname = "Depósito del Vacío"}
+MultiLanguageNpcData['mx'][85962] = {name = "Custodio de la cámara Nizsham", subname = nil}
 MultiLanguageNpcData['mx'][85963] = {name = "Orville Manfred", subname = "Maestro de establos"}
 MultiLanguageNpcData['mx'][85964] = {name = "Georgitte Tyron", subname = "Subastadora"}
 MultiLanguageNpcData['mx'][85965] = {name = "Marion Vosel", subname = "Instructora de mascotas de duelo"}
@@ -23769,7 +23769,7 @@ MultiLanguageNpcData['mx'][92865] = {name = "Albar Argenta", subname = nil}
 MultiLanguageNpcData['mx'][92866] = {name = "Albar Argenta", subname = nil}
 MultiLanguageNpcData['mx'][92867] = {name = "Restos de Colmillo temible podrido", subname = nil}
 MultiLanguageNpcData['mx'][92868] = {name = "Retoño de antárbol", subname = nil}
-MultiLanguageNpcData['mx'][92870] = {name = "Furia de Sindragosa", subname = nil}
+MultiLanguageNpcData['mx'][92870] = {name = "Furia de vermis de escarcha", subname = nil}
 MultiLanguageNpcData['mx'][92871] = {name = "Boquilla de taxi de Ysera", subname = nil}
 MultiLanguageNpcData['mx'][92872] = {name = "Espíritu", subname = nil}
 MultiLanguageNpcData['mx'][92873] = {name = "Torturaalmas Jurapenas", subname = nil}
