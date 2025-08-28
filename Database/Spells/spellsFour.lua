@@ -20518,7 +20518,6 @@ MultiLanguageSpellData['mx'][246739] = {name = "Furia de Golganneth", additional
 MultiLanguageSpellData['mx'][246740] = {name = "Llevar agua", additional_info = nil}
 MultiLanguageSpellData['mx'][246741] = {name = "South Rocks Phase", additional_info = nil}
 MultiLanguageSpellData['mx'][246742] = {name = "North Rocks Phase", additional_info = nil}
-MultiLanguageSpellData['mx'][246743] = {name = "East Rocks Phase", additional_info = nil}
 MultiLanguageSpellData['mx'][246744] = {name = "West Rocks Phase", additional_info = nil}
 MultiLanguageSpellData['mx'][246745] = {name = "Purificador", additional_info = nil}
 MultiLanguageSpellData['mx'][246746] = {name = "Bomba diabólica", additional_info = "Alcance de 200 m\nInstante\n[q]Kin'garoth crea una bomba de energía vil que explota cuando un jugador la toca e inflige 18511 p. de daño de las sombras a todos los jugadores en un radio de 200 m. Los jugadores que están más lejos de la zona de impacto reciben menos daño."}
@@ -27596,7 +27595,6 @@ MultiLanguageSpellData['mx'][255253] = {name = "Hechizo de murciélagos", additi
 MultiLanguageSpellData['mx'][255257] = {name = "Capturando", additional_info = nil}
 MultiLanguageSpellData['mx'][255258] = {name = "Brea llameante", additional_info = "Alcance de 200 m\nHechizo de 1.5 seg\n[q]Arroja una roca gigante a la distancia para infligir daño de fuego a todos los enemigos que estén en un radio de 0A m y daño de asedio a las estructuras enemigas."}
 MultiLanguageSpellData['mx'][255260] = {name = "Enseña del caos", additional_info = "[q]Tu daño marca al objetivo y aumenta el daño mágico que recibe un 3%."}
-MultiLanguageSpellData['mx'][255261] = {name = "Kill Credit: Any Cannon Destroyed", additional_info = nil}
 MultiLanguageSpellData['mx'][255262] = {name = "Kill Credit: Any Cannon Destroyed", additional_info = nil}
 MultiLanguageSpellData['mx'][255263] = {name = "Remar (izquierda)", additional_info = nil}
 MultiLanguageSpellData['mx'][255264] = {name = "Battle Scene War Council Alive", additional_info = nil}
@@ -29969,7 +29967,7 @@ MultiLanguageSpellData['mx'][258050] = {name = "Pelota de agua", additional_info
 MultiLanguageSpellData['mx'][258051] = {name = "Tromba de luz", additional_info = nil}
 MultiLanguageSpellData['mx'][258052] = {name = "Tromba de luz", additional_info = nil}
 MultiLanguageSpellData['mx'][258053] = {name = "Engalanado", additional_info = "Instante\n[q]Transforma al taumaturgo durante 5 min. El efecto se rompe al entrar en combate."}
-MultiLanguageSpellData['mx'][258054] = {name = "Remolino de agua salada", additional_info = "Hechizo de 3 seg\n[q]Gira rápidamente para infligir 5940 p. de daño de escarcha a todos los enemigos que estén en un radio de 10 m y aturdirlos durante 3 s."}
+MultiLanguageSpellData['mx'][258054] = {name = "Remolino de agua salada", additional_info = "Hechizo de 3 seg\n[q]Gira rápidamente para infligir 15 p. de daño de escarcha a todos los enemigos que estén en un radio de 10 m y aturdirlos durante 3 s."}
 MultiLanguageSpellData['mx'][258055] = {name = "Tromba de luz", additional_info = nil}
 MultiLanguageSpellData['mx'][258056] = {name = "Marcar agro de anguila", additional_info = nil}
 MultiLanguageSpellData['mx'][258057] = {name = "Kill Credit: Zul", additional_info = nil}
@@ -31838,7 +31836,7 @@ MultiLanguageSpellData['mx'][260238] = {name = "Enviar evento", additional_info 
 MultiLanguageSpellData['mx'][260239] = {name = "Enviar evento", additional_info = nil}
 MultiLanguageSpellData['mx'][260240] = {name = "Disparos precisos", additional_info = "[q0]Talento\n[q]Disparo de puntería hace que tu siguiente [ Disparo de quimera / Disparo arcano] o Multidisparo inflija un 100% más de daño, cueste un 40% menos de enfoque y tenga un 50% menos de tiempo de reutilización global.\n\n El daño de tu disparo automático aumenta un 100%, pero el tiempo entre tus ataques automáticos aumenta 2.0 s."}
 MultiLanguageSpellData['mx'][260241] = {name = "Mordedura de hidra", additional_info = "[q0]Talento\n[q]Cuando Disparo de puntería golpea a un enemigo afectado por tu Picadura de serpiente, propaga Picadura de serpiente a 2 enemigos cercanos.\n\n El daño con el tiempo de Picadura de serpiente aumenta un 20%.\n(500ms de reutilización)"}
-MultiLanguageSpellData['mx'][260242] = {name = "Disparos precisos", additional_info = "Instante\n[q]Disparo de puntería hace que tu siguiente [ Disparo de quimera / Disparo arcano] o Multidisparo inflija un 100% más de daño, cueste un 40% menos de enfoque y tenga un 50% menos de tiempo de reutilización global.\n\n El daño de tu disparo automático aumenta un 100%, pero el tiempo entre tus ataques automáticos aumenta 2.0 s.\n(500ms de reutilización)"}
+MultiLanguageSpellData['mx'][260242] = {name = "Disparos precisos", additional_info = "Instante\n[q]Disparo de puntería hace que tu siguiente [ Disparo de quimera / Disparo arcano] o Multidisparo inflija un 100% más de daño, cueste un 40% menos de enfoque y tenga un 50% menos de tiempo de reutilización global.\n\n El daño de tu disparo automático aumenta un 100%, pero el tiempo entre tus ataques automáticos aumenta 2.0 s."}
 MultiLanguageSpellData['mx'][260243] = {name = "Salva", additional_info = "[q0]Talento\nAlcance de 40 m\n{Instante} {45 seg de reutilización}\nRequiere Arma a distancia\n[q]Hace llover una salva de flechas durante 6 s que infligen hasta [([75% of Attack Power]) * 12] p. de daño físico a todos los enemigos que están en el área. Obtiene los efectos de Disparo con truco hasta que termine Salva."}
 MultiLanguageSpellData['mx'][260244] = {name = "Frenesí", additional_info = "Instante"}
 MultiLanguageSpellData['mx'][260245] = {name = "Muñeco de entrenamiento - Mascara zandalari 01", additional_info = nil}

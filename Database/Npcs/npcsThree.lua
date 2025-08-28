@@ -28372,7 +28372,7 @@ MultiLanguageNpcData['mx'][153080] = {name = "Voz de la reina", subname = "Guard
 MultiLanguageNpcData['mx'][153081] = {name = "Juerguista de la Fiesta de la Cerveza", subname = nil}
 MultiLanguageNpcData['mx'][153082] = {name = "Juerguista de la Fiesta de la Cerveza", subname = nil}
 MultiLanguageNpcData['mx'][153083] = {name = "Vethan, el del Corazón congelado", subname = nil}
-MultiLanguageNpcData['mx'][153084] = {name = "Arator el Redentor", subname = nil}
+MultiLanguageNpcData['mx'][153084] = {name = "Arator", subname = nil}
 MultiLanguageNpcData['mx'][153085] = {name = "Paladín templeluz", subname = nil}
 MultiLanguageNpcData['mx'][153086] = {name = "Sacerdote de guerra templeluz", subname = nil}
 MultiLanguageNpcData['mx'][153087] = {name = "Baluarte templeluz", subname = nil}
@@ -38179,7 +38179,6 @@ MultiLanguageNpcData['mx'][164177] = {name = "Mantonocturno real", subname = nil
 MultiLanguageNpcData['mx'][164178] = {name = "Alma en pánico", subname = nil}
 MultiLanguageNpcData['mx'][164179] = {name = "Tentáculo contoneado", subname = nil}
 MultiLanguageNpcData['mx'][164180] = {name = "Cloud Tile Trap Bunny", subname = nil}
-MultiLanguageNpcData['mx'][164181] = {name = "Asediadora petronato", subname = nil}
 MultiLanguageNpcData['mx'][164182] = {name = "Ascendido Rechazado", subname = nil}
 MultiLanguageNpcData['mx'][164183] = {name = "Discípulo Rechazado", subname = nil}
 MultiLanguageNpcData['mx'][164184] = {name = "Duelista ambicioso", subname = nil}
@@ -38549,7 +38548,6 @@ MultiLanguageNpcData['mx'][164624] = {name = "Bóveda cerrada con runas", subnam
 MultiLanguageNpcData['mx'][164625] = {name = "Guardia del foso", subname = nil}
 MultiLanguageNpcData['mx'][164626] = {name = "Explorador de los Cazadores salvajes", subname = nil}
 MultiLanguageNpcData['mx'][164627] = {name = "Reldorn", subname = "Cazadores salvajes"}
-MultiLanguageNpcData['mx'][164628] = {name = "Llave rúnica", subname = nil}
 MultiLanguageNpcData['mx'][164629] = {name = "Baba revitalizante", subname = nil}
 MultiLanguageNpcData['mx'][164631] = {name = "Abominación pútrida", subname = nil}
 MultiLanguageNpcData['mx'][164632] = {name = "Glotón arrasador", subname = nil}
@@ -38590,7 +38588,6 @@ MultiLanguageNpcData['mx'][164676] = {name = "Fragmento de piedra de pecados esc
 MultiLanguageNpcData['mx'][164677] = {name = "Anillos", subname = nil}
 MultiLanguageNpcData['mx'][164678] = {name = "Navegadora Xennir", subname = nil}
 MultiLanguageNpcData['mx'][164679] = {name = "Susurradora Vyn", subname = nil}
-MultiLanguageNpcData['mx'][164680] = {name = "Abominación cosida", subname = nil}
 MultiLanguageNpcData['mx'][164683] = {name = "Custodio asistente", subname = "Mano de la Árbitra"}
 MultiLanguageNpcData['mx'][164684] = {name = "Cuidador Kah-Vosh", subname = "Mano de la Árbitra"}
 MultiLanguageNpcData['mx'][164685] = {name = "Cuidador Kah-Lod", subname = "Mano de la Árbitra"}

@@ -1563,7 +1563,7 @@ MultiLanguageSpellData['mx'][165089] = {name = "Invocar a Akama", additional_inf
 MultiLanguageSpellData['mx'][165090] = {name = "Santuario congelado", additional_info = nil}
 MultiLanguageSpellData['mx'][165091] = {name = "Mod Scale -20%", additional_info = "Instante\n[q]+20% de escala"}
 MultiLanguageSpellData['mx'][165092] = {name = "Santificado", additional_info = nil}
-MultiLanguageSpellData['mx'][165093] = {name = "Jadeo virulento", additional_info = "Hechizo de 0.8 seg\n[q]Inflige 4240169 p. de daño de Naturaleza a todos los enemigos en un cono frente al taumaturgo."}
+MultiLanguageSpellData['mx'][165093] = {name = "Jadeo virulento", additional_info = "Hechizo de 0.8 seg\n[q]Inflige 17 p. de daño de Naturaleza a todos los enemigos en un cono frente al taumaturgo."}
 MultiLanguageSpellData['mx'][165094] = {name = "Fantasma visual", additional_info = nil}
 MultiLanguageSpellData['mx'][165095] = {name = "Decimatus transformado", additional_info = nil}
 MultiLanguageSpellData['mx'][165096] = {name = "Aterrizaje ógrico", additional_info = "Instante\n[q]Asesta ferozmente causando 100% de daño con arma y derribando a todos los jugadores en un radio de 15 m"}
@@ -3981,7 +3981,7 @@ MultiLanguageSpellData['mx'][167961] = {name = "Invocar a leñador peón de la H
 MultiLanguageSpellData['mx'][167962] = {name = "Invocar selector de facción de leñador", additional_info = nil}
 MultiLanguageSpellData['mx'][167963] = {name = "Early Cave-In Phase Time", additional_info = nil}
 MultiLanguageSpellData['mx'][167964] = {name = "Darktide Kill Credit", additional_info = nil}
-MultiLanguageSpellData['mx'][167966] = {name = "Terreno de zarza", additional_info = "Alcance de 100 m\nHechizo de 2 seg\n[q]El modelador de tierra Telu crea un área de zarzas debajo de un jugador al azar durante 45 s. Las zarzas infligen 1413389 p. de daño de Naturaleza cada 1 s y reducen la velocidad de movimiento un 55%."}
+MultiLanguageSpellData['mx'][167966] = {name = "Terreno de zarza", additional_info = "Alcance de 100 m\nHechizo de 2 seg\n[q]El modelador de tierra Telu crea un área de zarzas debajo de un jugador al azar durante 45 s. Las zarzas infligen 6 p. de daño de Naturaleza cada 1 s y reducen la velocidad de movimiento un 55%."}
 MultiLanguageSpellData['mx'][167967] = {name = "Terreno de zarza", additional_info = nil}
 MultiLanguageSpellData['mx'][167968] = {name = "Muerte emergente y En llamas", additional_info = nil}
 MultiLanguageSpellData['mx'][167969] = {name = "Invocar leñador de la Alianza", additional_info = nil}
@@ -3991,7 +3991,7 @@ MultiLanguageSpellData['mx'][167972] = {name = "Escalada de leñador", additiona
 MultiLanguageSpellData['mx'][167973] = {name = "Área de emboscada", additional_info = nil}
 MultiLanguageSpellData['mx'][167974] = {name = "Escalada de leñador", additional_info = nil}
 MultiLanguageSpellData['mx'][167976] = {name = "Parte de arriba del tanque", additional_info = nil}
-MultiLanguageSpellData['mx'][167977] = {name = "Terreno de zarza", additional_info = "Alcance de 100 m\nInstante\n[q]El modelador de tierra Telu crea un área de zarzas debajo de un jugador al azar durante 45 s. Las zarzas infligen 1413389 p. de daño de Naturaleza cada 1 s y reducen la velocidad de movimiento un 55%."}
+MultiLanguageSpellData['mx'][167977] = {name = "Terreno de zarza", additional_info = "Alcance de 100 m\nInstante\n[q]El modelador de tierra Telu crea un área de zarzas debajo de un jugador al azar durante 45 s. Las zarzas infligen 6 p. de daño de Naturaleza cada 1 s y reducen la velocidad de movimiento un 55%."}
 MultiLanguageSpellData['mx'][167978] = {name = "Filo dentado", additional_info = "Alcance de ataques cuerpo a cuerpo\nInstante\n[q]Golpea a un enemigo con armas dentadas y le inflige daño físico inmediatamente cada 3 s durante 9 s."}
 MultiLanguageSpellData['mx'][167979] = {name = "Pedir refuerzos", additional_info = nil}
 MultiLanguageSpellData['mx'][167980] = {name = "Pedir refuerzos", additional_info = nil}
@@ -4030,7 +4030,7 @@ MultiLanguageSpellData['mx'][168037] = {name = "Portal de demonios", additional_
 MultiLanguageSpellData['mx'][168038] = {name = "Destrucción elemental", additional_info = "Rango ilimitado\nCanalizado (Hechizo de 1 min)\n[q]¡Intenta destruir un edificio!"}
 MultiLanguageSpellData['mx'][168039] = {name = "Portal demoníaco", additional_info = "Alcance de 200 m\nCanalizado (Hechizo de 1 min)\n[q]Comienza a cubrir una brecha entre con el Vacío Abisal."}
 MultiLanguageSpellData['mx'][168040] = {name = "Ira de la Naturaleza", additional_info = "Alcance de 100 m\nHechizo de 2 seg\n[q]El modelador de tierra Telu acribilla a un jugador al azar, infligiéndole 2424449 p. de daño de Naturaleza."}
-MultiLanguageSpellData['mx'][168041] = {name = "Piel zarza", additional_info = "Alcance de 100 m\nHechizo de 2 seg\n[q]El modelador de tierra Telu protege a un aliado con zarzas durante 30 s. Este efecto reduce todo el daño recibido un 75% e inflige 1648953 p. de daño de Naturaleza a los atacantes.\n(2s de reutilización)"}
+MultiLanguageSpellData['mx'][168041] = {name = "Piel zarza", additional_info = "Alcance de 100 m\nHechizo de 2 seg\n[q]El modelador de tierra Telu protege a un aliado con zarzas durante 30 s. Este efecto reduce todo el daño recibido un 75% e inflige 7 p. de daño de Naturaleza a los atacantes.\n(2s de reutilización)"}
 MultiLanguageSpellData['mx'][168042] = {name = "[q2]Catalizador alquímico", additional_info = "Hechizo de 1.5 seg 1 día reutilización\n3 cargas\nComponentes:\nHierbaescarcha (20), Mena de Roca Negra (10)\n[q]Produce 10. También puede otorgar Fuego de hechicería y/o Agua de hechicería.\n\n Puede lanzarse hasta tres veces seguidas, pero se necesitan 24 horas para recuperar 1 uso."}
 MultiLanguageSpellData['mx'][168043] = {name = "Invocar a leñador peón de la Horda", additional_info = nil}
 MultiLanguageSpellData['mx'][168044] = {name = "Excavación", additional_info = nil}
@@ -4148,7 +4148,7 @@ MultiLanguageSpellData['mx'][168182] = {name = "Arena Credit", additional_info =
 MultiLanguageSpellData['mx'][168184] = {name = "Tajos desgarradores", additional_info = nil}
 MultiLanguageSpellData['mx'][168185] = {name = "Trigger Charge", additional_info = nil}
 MultiLanguageSpellData['mx'][168186] = {name = "Carga desgarradora", additional_info = nil}
-MultiLanguageSpellData['mx'][168187] = {name = "Carga desgarradora", additional_info = "Alcance de 40 m\nInstante\n[q]Dulhu carga contra un jugador al azar, hiriéndolo. Este efecto inflige 452283 p. de daño físico cada segundo durante 15 s."}
+MultiLanguageSpellData['mx'][168187] = {name = "Carga desgarradora", additional_info = "Alcance de 40 m\nInstante\n[q]Dulhu carga contra un jugador al azar, hiriéndolo. Este efecto inflige 2 p. de daño físico cada segundo durante 15 s."}
 MultiLanguageSpellData['mx'][168189] = {name = "Cargar saco", additional_info = nil}
 MultiLanguageSpellData['mx'][168190] = {name = "Dionor resucitado", additional_info = nil}
 MultiLanguageSpellData['mx'][168191] = {name = "Bomba de Fuego vil", additional_info = nil}
@@ -4320,7 +4320,7 @@ MultiLanguageSpellData['mx'][168379] = {name = "Impacto feroz", additional_info 
 MultiLanguageSpellData['mx'][168380] = {name = "Punición", additional_info = "Alcance de 40 m\nHechizo de 1.5 seg\n[q]Pune al enemigo causándole daño Sagrado."}
 MultiLanguageSpellData['mx'][168381] = {name = "Sanación relámpago", additional_info = "Alcance de 40 m\nHechizo de 1.5 seg\n[q]Sana a un objetivo amistoso cercano."}
 MultiLanguageSpellData['mx'][168382] = {name = "Alarido psíquico", additional_info = "Instante\n[q]Emite un alarido psíquico que hace huir a los enemigos cercanos durante 6 s."}
-MultiLanguageSpellData['mx'][168383] = {name = "Tajo", additional_info = "Alcance de 100 m\nHechizo de 2 seg\n[q]Dulhu azota al objetivo de su Vid enredadora, lo que inflige 7066931 p. de daño físico a todos los jugadores frente a él en un radio de 8 m."}
+MultiLanguageSpellData['mx'][168383] = {name = "Tajo", additional_info = "Alcance de 100 m\nHechizo de 2 seg\n[q]Dulhu azota al objetivo de su Vid enredadora, lo que inflige 29 p. de daño físico a todos los jugadores frente a él en un radio de 8 m."}
 MultiLanguageSpellData['mx'][168384] = {name = "Salva de cañón", additional_info = nil}
 MultiLanguageSpellData['mx'][168385] = {name = "Salva de cañón", additional_info = nil}
 MultiLanguageSpellData['mx'][168386] = {name = "Bomba Roca Negra", additional_info = "Alcance de 40 m\nInstante\n[q]Tira una bomba hacia un enemigo. La bomba estalla en hasta que se cancela s después de caer e inflige 600 p. de daño de Fuego a cualquiera en un radio de 4 m."}
@@ -4410,7 +4410,7 @@ MultiLanguageSpellData['mx'][168486] = {name = "Haz destellante", additional_inf
 MultiLanguageSpellData['mx'][168487] = {name = "Un hogar lejos de casa", additional_info = "Hechizo de 3 seg 5 min de reutilización\n[q]Teletransporte a la Sidrería Stoktron.\n\nPasivo: ganancia de EXP aumentada un 20% en los Pináculos de Arak."}
 MultiLanguageSpellData['mx'][168488] = {name = "Garrison - Force Banter - Guard - Danger - Cone - [Stage 2 Wave 1 Killed] Breakers", additional_info = nil}
 MultiLanguageSpellData['mx'][168490] = {name = "Garrison - Force Banter - Guard - Danger - Cone - [Stage 3 Intro] Breakers", additional_info = nil}
-MultiLanguageSpellData['mx'][168491] = {name = "Piel zarza", additional_info = "Alcance de 100 m\nInstante\n[q]El modelador de tierra Telu protege a un aliado con zarzas durante 30 s. Este efecto reduce todo el daño recibido un 75% e inflige 1648953 p. de daño de Naturaleza a los atacantes."}
+MultiLanguageSpellData['mx'][168491] = {name = "Piel zarza", additional_info = "Alcance de 100 m\nInstante\n[q]El modelador de tierra Telu protege a un aliado con zarzas durante 30 s. Este efecto reduce todo el daño recibido un 75% e inflige 7 p. de daño de Naturaleza a los atacantes."}
 MultiLanguageSpellData['mx'][168492] = {name = "¡Obtén la Luz!", additional_info = nil}
 MultiLanguageSpellData['mx'][168493] = {name = "Extraer almas", additional_info = "Hechizo de 2 seg\n[q]Consume una porción del alma de un enemigo caído cercano, incrementando el daño infligido en un 10%."}
 MultiLanguageSpellData['mx'][168494] = {name = "Explosion Trigger", additional_info = nil}
@@ -4934,7 +4934,7 @@ MultiLanguageSpellData['mx'][169089] = {name = "Invocar a tejetinieblas Hierro b
 MultiLanguageSpellData['mx'][169091] = {name = "[q3]Fragmento luminoso", additional_info = "Hechizo de 1.5 seg\nComponentes:\nPolvo draénico (20)\nVendedor:\nAyada la Blanca\nObjeto:\nEncantamiento de Draenor\nCosto:\n100\nZona:\nCaída de la Luna\n\nVendedor:\nBob\nObjeto:\nEncantamiento de Draenor\nCosto:\n100\nZona:\nAshran\n\n[q3]Fragmento luminoso\nMaterial de profesión"}
 MultiLanguageSpellData['mx'][169092] = {name = "[q4]Cristal temporal", additional_info = "Hechizo de 1.5 seg 1 día de reutilización\nComponentes:\nFragmento luminoso\n[q]Una habilidad de encantamiento baja puede romper el cristal al crearlo.\n\n También puede crear Aire y Fuego de hechicería.\n\n El tiempo de reutilización se reinicia a diario.\nVendedor:\nAyada la Blanca\nObjeto:\nEncantamiento de Draenor\nCosto:\n100\nZona:\nCaída de la Luna\n\nVendedor:\nBob\nObjeto:\nEncantamiento de Draenor\nCosto:\n100\nZona:\nAshran\n\n[q4]Cristal temporal\nMaterial de profesión"}
 MultiLanguageSpellData['mx'][169093] = {name = "Fingir muerte permanente (aturde, imposible de rastrear, inmune)", additional_info = nil}
-MultiLanguageSpellData['mx'][169094] = {name = "Fogonazo", additional_info = "Alcance de 40 mHechizo de 1.5 seg 10 seg de reutilización\n[q]Invoca una columna de fuego que quema a todos los enemigos en el área, lo que inflige 1356853 p. de daño de Fuego cada segundo durante 15 s."}
+MultiLanguageSpellData['mx'][169094] = {name = "Fogonazo", additional_info = "Alcance de 40 mHechizo de 1.5 seg 10 seg de reutilización\n[q]Invoca una columna de fuego que quema a todos los enemigos en el área, lo que inflige 6 p. de daño de Fuego cada segundo durante 15 s."}
 MultiLanguageSpellData['mx'][169095] = {name = "Furia de viento", additional_info = nil}
 MultiLanguageSpellData['mx'][169096] = {name = "Furia de fuego", additional_info = nil}
 MultiLanguageSpellData['mx'][169097] = {name = "Furia de tierra", additional_info = nil}
@@ -5419,7 +5419,7 @@ MultiLanguageSpellData['mx'][169708] = {name = "Lanzar martillo", additional_inf
 MultiLanguageSpellData['mx'][169709] = {name = "Lanzar martillo", additional_info = nil}
 MultiLanguageSpellData['mx'][169710] = {name = "Cascarrabias", additional_info = "Alcance de 100 m\nInstante\n[q]Volverse Cascarrabias aumenta el daño infligido un 10%."}
 MultiLanguageSpellData['mx'][169713] = {name = "Camuflaje de Filarca", additional_info = nil}
-MultiLanguageSpellData['mx'][169714] = {name = "Jadear", additional_info = "Hechizo de 2.5 seg\n[q]Una ola de energía natural barre con todos los enemigos en un cono frente al taumaturgo que inflige 3769025 p. de daño de Naturaleza."}
+MultiLanguageSpellData['mx'][169714] = {name = "Jadear", additional_info = "Hechizo de 2.5 seg\n[q]Una ola de energía natural barre con todos los enemigos en un cono frente al taumaturgo que inflige 16 p. de daño de Naturaleza."}
 MultiLanguageSpellData['mx'][169715] = {name = "Flor espina evasiva", additional_info = nil}
 MultiLanguageSpellData['mx'][169716] = {name = "Cabezazo", additional_info = "Alcance de 10 m\nInstante\n[q]Inflige daño físico a los enemigos que se encuentran en un cono frente al taumaturgo y los derriba."}
 MultiLanguageSpellData['mx'][169717] = {name = "Cosmetic: Dummy Aura - See Thrall Static 002", additional_info = nil}
@@ -7783,7 +7783,7 @@ MultiLanguageSpellData['mx'][172580] = {name = "Excavar sabor goren", additional
 MultiLanguageSpellData['mx'][172581] = {name = "Llevando munición", additional_info = "Instante\n[q]Suelta la munición al entrar en combate."}
 MultiLanguageSpellData['mx'][172584] = {name = "Temporizador de pollo", additional_info = "Instante\n[q]Cocinando pollo y contemplando la batalla."}
 MultiLanguageSpellData['mx'][172587] = {name = "Sostener peluche elekk", additional_info = nil}
-MultiLanguageSpellData['mx'][172588] = {name = "Aliento vil", additional_info = "Hechizo de 0.75 seg\n[q]Inflige 6061123 p. de daño de Naturaleza en un cono frente al taumaturgo."}
+MultiLanguageSpellData['mx'][172588] = {name = "Aliento vil", additional_info = "Hechizo de 0.75 seg\n[q]Inflige 25 p. de daño de Naturaleza en un cono frente al taumaturgo."}
 MultiLanguageSpellData['mx'][172590] = {name = "Invocar al soldado Pisapezuña", additional_info = nil}
 MultiLanguageSpellData['mx'][172593] = {name = "Salva de cañón", additional_info = "Canalizado"}
 MultiLanguageSpellData['mx'][172594] = {name = "Salva de cañón", additional_info = "Rango ilimitado\nHechizo de 0.75 seg\n[q]Inflige 64 p. de daño a los enemigos que se encuentren en un radio de 6 m."}
@@ -10785,7 +10785,7 @@ MultiLanguageSpellData['mx'][175993] = {name = "Fuerza torpe", additional_info =
 MultiLanguageSpellData['mx'][175994] = {name = "Cinemática final de Pirofrío", additional_info = nil}
 MultiLanguageSpellData['mx'][175995] = {name = "Cinemática final de Pirofrío", additional_info = nil}
 MultiLanguageSpellData['mx'][175996] = {name = "Cinemática final de Pirofrío", additional_info = nil}
-MultiLanguageSpellData['mx'][175997] = {name = "Erupción nociva", additional_info = "Hechizo de 3 seg\n[q]Dulhu hace erupción, lo que inflige 2355646 p. de daño de Naturaleza a todos los jugadores en un radio de 10 m y los derriba."}
+MultiLanguageSpellData['mx'][175997] = {name = "Erupción nociva", additional_info = "Hechizo de 3 seg\n[q]Dulhu hace erupción, lo que inflige 10 p. de daño de Naturaleza a todos los jugadores en un radio de 10 m y los derriba."}
 MultiLanguageSpellData['mx'][175999] = {name = "Estado tocado del vacío", additional_info = nil}
 MultiLanguageSpellData['mx'][176000] = {name = "Veneno azotador", additional_info = "Alcance de 40 m\nHechizo de 2 seg\n[q]Los azotadores gigantes escupen veneno a un jugador aleatorio, lo que inflige 852 p. de daño de Naturaleza."}
 MultiLanguageSpellData['mx'][176001] = {name = "Vides salvajes", additional_info = "Hechizo de 2 seg 4 seg de reutilización\n[q]Tarlna envuelve a un enemigo con vides salvajes que brotan luego de 8 s, lo que inflige 852 p. de daño de Naturaleza a él y a sus aliados en un radio de 8 m. Además, este efecto enraíza a los objetivos en el lugar e inflige 290 p. de daño de Naturaleza cada segundo durante 8 s."}
@@ -20764,8 +20764,8 @@ MultiLanguageSpellData['mx'][188430] = {name = "Abandonar misión", additional_i
 MultiLanguageSpellData['mx'][188432] = {name = "Suelta al águila", additional_info = "Alcance de ataques cuerpo a cuerpo\nHechizo de 1.5 seg\n[q]Desarma la trampa alrededor de una gran águila."}
 MultiLanguageSpellData['mx'][188433] = {name = "Agujero de vórtice de sombras", additional_info = nil}
 MultiLanguageSpellData['mx'][188434] = {name = "Águila atrapada", additional_info = "Alcance de 100 m\nInstante\n[q]Atrapa un águila."}
-MultiLanguageSpellData['mx'][188435] = {name = "Golpe de tormenta", additional_info = "Alcance de ataques cuerpo a cuerpo\nInstante\nRequiere Arma cuerpo a cuerpo\n[q]Energiza tus armas con relámpagos y asesta un golpe salvaje a tu objetivo que le inflige un total de [([201.825% of Attack Power])% + ([201.825% of Attack Power])%] p. de daño físico. [ Asalto elemental : Golpe de tormenta tiene una probabilidad del 0% de generar 1 acumulación de Arma vorágine ]"}
-MultiLanguageSpellData['mx'][188436] = {name = "Golpe de tormenta de mano izquierda", additional_info = "Alcance de ataques cuerpo a cuerpo\nInstante\nRequiere Arma cuerpo a cuerpo\n[q]Energiza tus armas con relámpagos y asesta un golpe salvaje a tu objetivo que le inflige un total de [([201.825% of Attack Power])% + ([201.825% of Attack Power])%] p. de daño físico. [ Asalto elemental : Golpe de tormenta tiene una probabilidad del 0% de generar 1 acumulación de Arma vorágine ]"}
+MultiLanguageSpellData['mx'][188435] = {name = "Golpe de tormenta", additional_info = "Alcance de ataques cuerpo a cuerpo\nInstante\nRequiere Arma cuerpo a cuerpo\n[q]Energiza tus armas con relámpagos y asesta un golpe salvaje a tu objetivo que le inflige un total de [([222.007% of Attack Power])% + ([222.007% of Attack Power])%] p. de daño físico. [ Asalto elemental : Golpe de tormenta tiene una probabilidad del 0% de generar 1 acumulación de Arma vorágine ]"}
+MultiLanguageSpellData['mx'][188436] = {name = "Golpe de tormenta de mano izquierda", additional_info = "Alcance de ataques cuerpo a cuerpo\nInstante\nRequiere Arma cuerpo a cuerpo\n[q]Energiza tus armas con relámpagos y asesta un golpe salvaje a tu objetivo que le inflige un total de [([222.007% of Attack Power])% + ([222.007% of Attack Power])%] p. de daño físico. [ Asalto elemental : Golpe de tormenta tiene una probabilidad del 0% de generar 1 acumulación de Arma vorágine ]"}
 MultiLanguageSpellData['mx'][188437] = {name = "Allari the Souleater: Scythe of Souls Beam", additional_info = nil}
 MultiLanguageSpellData['mx'][188438] = {name = "Conducto vil", additional_info = nil}
 MultiLanguageSpellData['mx'][188439] = {name = "Sigilo", additional_info = "{Instante} {2 min de reutilización}\n[q]Pone al taumaturgo en modo sigilo. Dura hasta que se cancela."}
@@ -27290,7 +27290,6 @@ MultiLanguageSpellData['mx'][196495] = {name = "Salto voraz", additional_info = 
 MultiLanguageSpellData['mx'][196496] = {name = "Salto voraz", additional_info = "Alcance de 100 m\nInstante\n[q]Fenryr salta hacia jugadores aleatorios e inflige 3879119 p. de daño físico a todos los enemigos en un radio de 10 m del impacto.\n\n Además, todos los objetivos sangran y sufren 3 p. de daño físico adicional cada 969780 s."}
 MultiLanguageSpellData['mx'][196497] = {name = "Salto voraz", additional_info = "Alcance de 60 m\nInstante\n[q]Fenryr salta hacia jugadores aleatorios e inflige 3879119 p. de daño físico a todos los enemigos en un radio de 10 m del impacto.\n\n Además, todos los objetivos sangran y sufren 3 p. de daño físico adicional cada 969780 s."}
 MultiLanguageSpellData['mx'][196498] = {name = "Tierra inquieta", additional_info = nil}
-MultiLanguageSpellData['mx'][196499] = {name = "Canalizar magia - Experiencia de artefacto mediana", additional_info = "Instante\n[q]Otorga una cantidad mediana de Poder de artefacto."}
 MultiLanguageSpellData['mx'][196500] = {name = "Canalizar magia - Experiencia de artefacto grande", additional_info = "Instante\n[q]Otorga una cantidad grande de poder de artefacto."}
 MultiLanguageSpellData['mx'][196501] = {name = "Frenesí hambriento", additional_info = "Alcance de 45 m\nHechizo de 2 seg\n[q]Lanza porquería al enemigo, lo que inflige 20 p. de daño físico al impactar y hace que los gusanos de los alrededores entren en un frenesí hambriento que aumenta su velocidad de ataque un 75% durante 6 s."}
 MultiLanguageSpellData['mx'][196502] = {name = "Mirada persistente", additional_info = "Alcance de 100 m\nInstante\n[q]El taumaturgo concentra su mirada en un ojo etéreo y se lo proyecta al objetivo. Cuando el ojo se posa, crea una zona de Mirada persistente. Los jugadores que permanecen en esta área reciben 0 p. de daño de las Sombras cada segundo."}
@@ -27308,10 +27307,8 @@ MultiLanguageSpellData['mx'][196518] = {name = "Capa de las Sombras", additional
 MultiLanguageSpellData['mx'][196520] = {name = "Fuego - Jefe derrotado", additional_info = nil}
 MultiLanguageSpellData['mx'][196521] = {name = "Invocar enfoque de Luz estelar", additional_info = nil}
 MultiLanguageSpellData['mx'][196522] = {name = "Helya", additional_info = nil}
-MultiLanguageSpellData['mx'][196523] = {name = "Demon Detainment: Quest Complete", additional_info = nil}
 MultiLanguageSpellData['mx'][196524] = {name = "Frenesí hambriento", additional_info = "Alcance de 45 m\nInstante\n[q]Lanza porquería al enemigo, lo que inflige 20 p. de daño físico al impactar y hace que los gusanos de los alrededores entren en un frenesí hambriento que aumenta su velocidad de ataque un 75% durante 6 s."}
 MultiLanguageSpellData['mx'][196525] = {name = "Baliza de luz estelar", additional_info = nil}
-MultiLanguageSpellData['mx'][196527] = {name = "Visual de enfoque de Luz estelar", additional_info = nil}
 MultiLanguageSpellData['mx'][196528] = {name = "Tormenta de huesos", additional_info = "Instante\n[q]Consumes hasta 5 cargas de Escudo óseo para crear un remolino de huesos y sangre que sacude a todos los enemigos cercanos, les inflige ([28.25% of Attack Power]) p. de daño de las sombras cada 1 s y restablece un 2% de tu salud máxima cada vez que inflige daño (hasta un máximo de 10%). Inflige daño reducido cuando golpea a más de 8 objetivos.\n\n Dura 2 s por cada carga gastada de Escudo óseo y regenera rápidamente un Escudo óseo cada 1 s."}
 MultiLanguageSpellData['mx'][196529] = {name = "Renovar la fe", additional_info = "Alcance de 100 m\nInstante\n[q]Cuando Himno divino está activo, Rezo de alivio salta hacia un objetivo nuevo cada 1 s sin consumir ninguna carga."}
 MultiLanguageSpellData['mx'][196530] = {name = "Fuego apocalíptico", additional_info = nil}
@@ -31972,7 +31969,7 @@ MultiLanguageSpellData['mx'][202027] = {name = "Jarra grande de arañas", additi
 MultiLanguageSpellData['mx'][202028] = {name = "Tajo brutal", additional_info = "[q0]Talento\n{25 p. de energía} {Alcance de 8 m}\nInstante 8 seg reutilización\n3 cargas\nRequiere Forma felina, Forma de oso\n[q]Golpea a todos los enemigos cercanos con un corte inmenso, lo que inflige ([211.2% of Attack Power]) p. de daño físico. Inflige menos daño cuando golpea a más de 5 objetivos.\n\nOtorga 1 p. de combo."}
 MultiLanguageSpellData['mx'][202029] = {name = "Enviar evento y cancelar aura", additional_info = nil}
 MultiLanguageSpellData['mx'][202030] = {name = "Habilidad de pesca", additional_info = "Instante\n[q]Aumenta la habilidad de pesca en 5 hasta un máximo de 800."}
-MultiLanguageSpellData['mx'][202031] = {name = "Dientes de sable", additional_info = "[q0]Talento\n[q]Mordedura feroz inflige un 15% más de daño.\n\n Por cada punto de combo gastado, el objetivo principal de Mordedura feroz recibe un 5% más de daño del sangrado de tu forma felina y otras habilidades periódicas durante 4 s."}
+MultiLanguageSpellData['mx'][202031] = {name = "Dientes de sable", additional_info = "[q0]Talento\n[q]Mordedura feroz inflige un 15% más de daño.\n\n Por cada punto de combo gastado, el objetivo principal de Mordedura feroz recibe un 6% más de daño del sangrado de tu forma felina y otras habilidades periódicas durante 4 s."}
 MultiLanguageSpellData['mx'][202032] = {name = "Heridas dentadas", additional_info = "[q]Tus habilidades Destripar, Arañazo y Vapulear infligen la totalidad de su daño un 20% más rápido."}
 MultiLanguageSpellData['mx'][202033] = {name = "Subidón de adrenalina", additional_info = nil}
 MultiLanguageSpellData['mx'][202034] = {name = "Riña", additional_info = nil}
@@ -40865,7 +40862,7 @@ MultiLanguageSpellData['mx'][212608] = {name = "Atrapado en la red", additional_
 MultiLanguageSpellData['mx'][212609] = {name = "Atrapado en la red", additional_info = nil}
 MultiLanguageSpellData['mx'][212610] = {name = "Muerto andante", additional_info = "Alcance de 100 m\nInstante\n[q]Tu Atracción letal provoca que el objetivo no pueda moverse más rápido que la velocidad de movimiento normal durante 8 s."}
 MultiLanguageSpellData['mx'][212611] = {name = "Cazador de demonios", additional_info = nil}
-MultiLanguageSpellData['mx'][212612] = {name = "Cazador de demonios de Caos", additional_info = "[q]Modifies Damage/Healing Done +13%:\nCaos desatado , Decreto elíseo , Decreto elíseo , Decreto elíseo , Destrucción de esencia , Devastación vil , Erupción vil , La cacería , La cacería , Lanzar guja , Marca pecaminosa , Mordedura de demonio , Nova de caos\n\nModifies Periodic Damage/Healing Done +13%:\nCaos desatado , Decreto elíseo , Decreto elíseo , Decreto elíseo , Destrucción de esencia , Devastación vil , Erupción vil , La cacería , La cacería , Lanzar guja , Marca pecaminosa , Mordedura de demonio , Nova de caos"}
+MultiLanguageSpellData['mx'][212612] = {name = "Cazador de demonios de Caos", additional_info = "[q]Modifies Damage/Healing Done +19%:\nCaos desatado , Decreto elíseo , Decreto elíseo , Decreto elíseo , Destrucción de esencia , Devastación vil , Erupción vil , La cacería , La cacería , Lanzar guja , Marca pecaminosa , Mordedura de demonio , Nova de caos\n\nModifies Periodic Damage/Healing Done +19%:\nCaos desatado , Decreto elíseo , Decreto elíseo , Decreto elíseo , Destrucción de esencia , Devastación vil , Erupción vil , La cacería , La cacería , Lanzar guja , Marca pecaminosa , Mordedura de demonio , Nova de caos"}
 MultiLanguageSpellData['mx'][212613] = {name = "Cazador de demonios de Venganza", additional_info = "[q]Modifies Damage/Healing Done -60%:\nErupción vil\n\nModifies Damage/Healing Done -35%:\nHoja mácula\n\nModifies Damage/Healing Done +53%:\nArmadura infernal , Corte de esencia , Decreto elíseo , Decreto elíseo , Decreto elíseo , Extracción en masa , La cacería , La cacería , Lanzar guja , Marca ardiente , Marca pecaminosa , Nova de caos , Sigilo de la llama , Tallador de alma , Tallador de alma\n\nModifies Damage/Healing Done +84%:\nCortar\n\nModifies Periodic Damage/Healing Done +53%:\nArmadura infernal , Cortar , Corte de esencia , Decreto elíseo , Decreto elíseo , Decreto elíseo , Extracción en masa , La cacería , La cacería , Lanzar guja , Marca ardiente , Marca pecaminosa , Nova de caos , Sigilo de la llama , Tallador de alma , Tallador de alma"}
 MultiLanguageSpellData['mx'][212614] = {name = "Activar Caja celeste de viento", additional_info = nil}
 MultiLanguageSpellData['mx'][212615] = {name = "Activar Caja celeste de huracán", additional_info = nil}
@@ -41951,7 +41948,7 @@ MultiLanguageSpellData['mx'][213843] = {name = "Tormenta divina", additional_inf
 MultiLanguageSpellData['mx'][213844] = {name = "Golpe de cruzado", additional_info = "Alcance de ataques cuerpo a cuerpo\n{Instante} {4.5 seg de reutilización}\nRequiere Arma cuerpo a cuerpo\n[q]Un golpe instantáneo que inflige ([16.4424% of Attack Power]) p. de daño físico [ Veredicto del templario : y otorga 1 p. de poder sagrado ]."}
 MultiLanguageSpellData['mx'][213845] = {name = "Sostener arma pequeña", additional_info = nil}
 MultiLanguageSpellData['mx'][213846] = {name = "Zurra", additional_info = "Alcance de 10 m\nHechizo de 0.7 seg\n[q]El taumaturgo aplasta al objetivo, le inflige daño físico y lo repele."}
-MultiLanguageSpellData['mx'][213847] = {name = "Golpe de tormenta", additional_info = "40 de Vorágine Alcance de ataques cuerpo a cuerpo\n{Instante} {16 seg de reutilización}\nRequiere Arma cuerpo a cuerpo\n[q]Energiza tus armas con relámpagos y desata un enorme golpe sobre tu objetivo, lo que inflige un total de [([201.825% of Attack Power])% + ([201.825% of Attack Power])%] p. de daño físico."}
+MultiLanguageSpellData['mx'][213847] = {name = "Golpe de tormenta", additional_info = "40 de Vorágine Alcance de ataques cuerpo a cuerpo\n{Instante} {16 seg de reutilización}\nRequiere Arma cuerpo a cuerpo\n[q]Energiza tus armas con relámpagos y desata un enorme golpe sobre tu objetivo, lo que inflige un total de [([222.007% of Attack Power])% + ([222.007% of Attack Power])%] p. de daño físico."}
 MultiLanguageSpellData['mx'][213848] = {name = "Disparar arma pequeña", additional_info = nil}
 MultiLanguageSpellData['mx'][213849] = {name = "Protector de fuego fatuo", additional_info = nil}
 MultiLanguageSpellData['mx'][213850] = {name = "Activar", additional_info = nil}
@@ -49236,7 +49233,7 @@ MultiLanguageSpellData['mx'][222020] = {name = "Infusión de Naturaleza", additi
 MultiLanguageSpellData['mx'][222021] = {name = "Infusión Arcana", additional_info = "Instante\n[q]Imbuye a los aliados con magia Arcana."}
 MultiLanguageSpellData['mx'][222022] = {name = "Enfurecer", additional_info = "Instante\n[q]Daño aumentado un 50%."}
 MultiLanguageSpellData['mx'][222023] = {name = "Icor de Pesadilla", additional_info = "Alcance de 30 m\nInstante\n[q]Recibir daño tiene una probabilidad de crear un Icor de Pesadilla cerca. Absorber el icor aumenta tu Versatilidad en 157 p. durante 10 s."}
-MultiLanguageSpellData['mx'][222024] = {name = "Asolar", additional_info = "Alcance de 100 m\nInstante\nRequiere Arma cuerpo a cuerpo de una mano\n[q]Un ataque brutal [que inflige [([193.595% of Attack Power]) * 1 ] p. de daño físico.][con ambas armas que inflige un total de [(([130.775% of Attack Power]) + ([130.775% of Attack Power])) * 1 ] p. de daño físico.]"}
+MultiLanguageSpellData['mx'][222024] = {name = "Asolar", additional_info = "Alcance de 100 m\nInstante\nRequiere Arma cuerpo a cuerpo de una mano\n[q]Un ataque brutal [que inflige [([183.915% of Attack Power]) * 1 ] p. de daño físico.][con ambas armas que inflige un total de [(([124.236% of Attack Power]) + ([124.236% of Attack Power])) * 1 ] p. de daño físico.]"}
 MultiLanguageSpellData['mx'][222025] = {name = "Icor de Pesadilla", additional_info = "Alcance de 30 m\nInstante\n[q]Recibir daño tiene una probabilidad de crear un Icor de Pesadilla cerca. Absorber el icor aumenta tu Versatilidad en 157 p. durante 10 s."}
 MultiLanguageSpellData['mx'][222026] = {name = "Golpe de Escarcha", additional_info = "Alcance de 100 m\nInstante\n[q]Enfría [tu arma con un poder helado y ataca al enemigo rápidamente para infligirle [([127.593% of Attack Power])] p. de daño de escarcha.][tus armas con un poder helado y ataca al enemigo rápidamente con ambas, lo que inflige un total de [([89.7313% of Attack Power]) + ([89.7313% of Attack Power])] p. de daño de escarcha.]"}
 MultiLanguageSpellData['mx'][222027] = {name = "Icor de Pesadilla", additional_info = "Alcance de 30 m\nInstante\n[q]Recibir daño tiene una probabilidad de crear un Icor de Pesadilla cerca. Absorber el icor aumenta tu Versatilidad en 157 p. durante 10 s."}
