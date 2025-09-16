@@ -28485,14 +28485,21 @@ MultiLanguageNpcData['mx'][39611] = {name = "Huarguerrero", subname = nil}
 MultiLanguageNpcData['mx'][39612] = {name = "Flujo espacial", subname = nil}
 MultiLanguageNpcData['mx'][39613] = {name = "Flujo de energía", subname = nil}
 MultiLanguageNpcData['mx'][39615] = {name = "Príncipe mercante Gallywix", subname = "Líder del Cártel Pantoque"}
+MultiLanguageNpcData['mx'][39616] = {name = "Invasor Naz'jar", subname = nil}
 MultiLanguageNpcData['mx'][39617] = {name = "Goblin capturado", subname = nil}
+MultiLanguageNpcData['mx'][39618] = {name = "Reclutador Crepuscular Maruk", subname = nil}
 MultiLanguageNpcData['mx'][39619] = {name = "Recluta Crepuscular", subname = nil}
 MultiLanguageNpcData['mx'][39620] = {name = "Tentáculo de monstruo marino", subname = nil}
 MultiLanguageNpcData['mx'][39621] = {name = "Elementalista Ortell", subname = nil}
 MultiLanguageNpcData['mx'][39622] = {name = "Espíritu de Lo'Gosh", subname = nil}
 MultiLanguageNpcData['mx'][39623] = {name = "Ciudadano gnomo", subname = nil}
 MultiLanguageNpcData['mx'][39624] = {name = "Ciudadana motivada", subname = nil}
+MultiLanguageNpcData['mx'][39625] = {name = "General Umbriss", subname = "Siervo de Alamuerte"}
+MultiLanguageNpcData['mx'][39626] = {name = "Señor de la guerra Natocarmesí", subname = "Siervo de Alamuerte"}
+MultiLanguageNpcData['mx'][39627] = {name = "Espíritu de Goldrinn", subname = nil}
 MultiLanguageNpcData['mx'][39628] = {name = "Cono de relámpagos", subname = nil}
+MultiLanguageNpcData['mx'][39629] = {name = "Caballito de mar abisal", subname = nil}
+MultiLanguageNpcData['mx'][39630] = {name = "Torga Susurratierra", subname = nil}
 MultiLanguageNpcData['mx'][39632] = {name = "Ciudadano de Orgrimmar", subname = nil}
 MultiLanguageNpcData['mx'][39633] = {name = "Vigía de Sen'jin", subname = nil}
 MultiLanguageNpcData['mx'][39634] = {name = "Vientos solares", subname = nil}
@@ -28502,8 +28509,11 @@ MultiLanguageNpcData['mx'][39637] = {name = "Defensor de Goldrinn", subname = ni
 MultiLanguageNpcData['mx'][39638] = {name = "Patrulla de Azsh'ir", subname = nil}
 MultiLanguageNpcData['mx'][39639] = {name = "Zombi inquieto", subname = nil}
 MultiLanguageNpcData['mx'][39640] = {name = "Kristoff Manheim", subname = nil}
+MultiLanguageNpcData['mx'][39642] = {name = "Tosco de la Casucha", subname = nil}
 MultiLanguageNpcData['mx'][39643] = {name = "Taumaturgo umbrío de la Casucha", subname = nil}
 MultiLanguageNpcData['mx'][39644] = {name = "Servidor Crepuscular", subname = nil}
+MultiLanguageNpcData['mx'][39646] = {name = "Gar'gol", subname = nil}
+MultiLanguageNpcData['mx'][39647] = {name = "Zalazane", subname = nil}
 MultiLanguageNpcData['mx'][39648] = {name = "Cultor del día del Juicio Final", subname = nil}
 MultiLanguageNpcData['mx'][39649] = {name = "Alucinación paranoica", subname = nil}
 MultiLanguageNpcData['mx'][39650] = {name = "Élite Plumaluna", subname = nil}
@@ -28515,6 +28525,7 @@ MultiLanguageNpcData['mx'][39655] = {name = "Superviviente orco", subname = nil}
 MultiLanguageNpcData['mx'][39656] = {name = "Orhan Hojaogra", subname = nil}
 MultiLanguageNpcData['mx'][39657] = {name = "Ogro Quebrantarrocas", subname = nil}
 MultiLanguageNpcData['mx'][39658] = {name = "Basilisco Escamaespina", subname = nil}
+MultiLanguageNpcData['mx'][39659] = {name = "Engendro de Arderos", subname = nil}
 MultiLanguageNpcData['mx'][39660] = {name = "Ángel de la Resurrección", subname = nil}
 MultiLanguageNpcData['mx'][39661] = {name = "Tentáculo de monstruo marino", subname = nil}
 MultiLanguageNpcData['mx'][39662] = {name = "Soldado sumido", subname = nil}
