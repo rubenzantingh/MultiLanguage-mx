@@ -1,3 +1,4 @@
+MultiLanguageNpcData['mx'][120958] = {name = "Caballero vil xorothiano", subname = nil}
 MultiLanguageNpcData['mx'][120959] = {name = "Nueva orden de trabajo", subname = nil}
 MultiLanguageNpcData['mx'][120961] = {name = "Impacto infernal", subname = nil}
 MultiLanguageNpcData['mx'][120962] = {name = "Cantamareas oleada vil", subname = nil}
@@ -48568,4 +48569,3 @@ MultiLanguageNpcData['mx'][175413] = {name = "Brisaluciente", subname = "Forjado
 MultiLanguageNpcData['mx'][175414] = {name = "Adera", subname = "Forjadora de armas nathriana normal"}
 MultiLanguageNpcData['mx'][175415] = {name = "Harkoth", subname = "Forjador de armas nathriano heroico"}
 MultiLanguageNpcData['mx'][175416] = {name = "Miggi", subname = nil}
-MultiLanguageNpcData['mx'][175417] = {name = "Sulanoom", subname = "Forjadora de armas nathriana mítica"}

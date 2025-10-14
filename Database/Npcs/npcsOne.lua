@@ -48037,4 +48037,3 @@ MultiLanguageNpcData['mx'][64749] = {name = "Kur Zarpa Fiera", subname = "Domado
 MultiLanguageNpcData['mx'][64750] = {name = "Rob Jackson", subname = "Domadora de mascotas"}
 MultiLanguageNpcData['mx'][64751] = {name = "Sra. Jackson", subname = "Domadora de mascotas"}
 MultiLanguageNpcData['mx'][64752] = {name = "Taner Halicioglu", subname = "Domadora de mascotas"}
-MultiLanguageNpcData['mx'][64753] = {name = "Sofi Náutica", subname = "Domador de mascotas"}

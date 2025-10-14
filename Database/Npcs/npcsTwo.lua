@@ -1,3 +1,4 @@
+MultiLanguageNpcData['mx'][64753] = {name = "Sofi Náutica", subname = "Domador de mascotas"}
 MultiLanguageNpcData['mx'][64754] = {name = "Jayneviento Patel", subname = "Domadora de mascotas"}
 MultiLanguageNpcData['mx'][64755] = {name = "Sharyn Filoplata", subname = "Domadora de mascotas"}
 MultiLanguageNpcData['mx'][64757] = {name = "Shonuf", subname = "El Tejefuego"}
@@ -23672,7 +23673,7 @@ MultiLanguageNpcData['mx'][92760] = {name = "Agua", subname = nil}
 MultiLanguageNpcData['mx'][92761] = {name = "Glogg el Impuro", subname = nil}
 MultiLanguageNpcData['mx'][92762] = {name = "Cruzado de la Alianza", subname = nil}
 MultiLanguageNpcData['mx'][92763] = {name = "El rey sin nombre", subname = nil}
-MultiLanguageNpcData['mx'][92764] = {name = "Valkira aspirante", subname = nil}
+MultiLanguageNpcData['mx'][92764] = {name = "Valkyra aspirante", subname = nil}
 MultiLanguageNpcData['mx'][92765] = {name = "Torvald el Desafiante", subname = nil}
 MultiLanguageNpcData['mx'][92766] = {name = "Akrrilo", subname = "Cazador de las sombras de los Colmillo Negro"}
 MultiLanguageNpcData['mx'][92767] = {name = "Dominador Sargerei", subname = nil}
@@ -27027,7 +27028,7 @@ MultiLanguageNpcData['mx'][96602] = {name = "Vindicadora Corin", subname = nil}
 MultiLanguageNpcData['mx'][96603] = {name = "Justicar Julia Celeste", subname = nil}
 MultiLanguageNpcData['mx'][96604] = {name = "Jorad Maza", subname = nil}
 MultiLanguageNpcData['mx'][96605] = {name = "Leoric Von Zeldig", subname = nil}
-MultiLanguageNpcData['mx'][96606] = {name = "Arator el Redentor", subname = nil}
+MultiLanguageNpcData['mx'][96606] = {name = "Arator", subname = nil}
 MultiLanguageNpcData['mx'][96608] = {name = "Huargo Garra de ébano", subname = nil}
 MultiLanguageNpcData['mx'][96609] = {name = "Venado de pelaje dorado", subname = nil}
 MultiLanguageNpcData['mx'][96611] = {name = "Toro Uñainquina", subname = nil}
@@ -27718,7 +27719,7 @@ MultiLanguageNpcData['mx'][97464] = {name = "Sable revivido", subname = "Aparici
 MultiLanguageNpcData['mx'][97465] = {name = "Sable revivido", subname = "Aparición de sabor de arena - No hay selección, objetivo, barra de PS, etc."}
 MultiLanguageNpcData['mx'][97466] = {name = "Grifo volador kaldorei", subname = nil}
 MultiLanguageNpcData['mx'][97468] = {name = "Guardia vil devastador", subname = nil}
-MultiLanguageNpcData['mx'][97469] = {name = "Valkira ahogándose", subname = nil}
+MultiLanguageNpcData['mx'][97469] = {name = "Valkyra ahogándose", subname = nil}
 MultiLanguageNpcData['mx'][97472] = {name = "Crédito - Valkira liberado", subname = nil}
 MultiLanguageNpcData['mx'][97479] = {name = "Credit - Helya Confronted", subname = nil}
 MultiLanguageNpcData['mx'][97480] = {name = "Ashildir", subname = "Reina de las Valkyra"}
@@ -29284,7 +29285,7 @@ MultiLanguageNpcData['mx'][99228] = {name = "Kayn Furia del Sol", subname = "Ill
 MultiLanguageNpcData['mx'][99229] = {name = "Altruis el Sufridor", subname = "Illidari"}
 MultiLanguageNpcData['mx'][99230] = {name = "Murciélago vil Illidari", subname = nil}
 MultiLanguageNpcData['mx'][99232] = {name = "Defensor de Talrendis", subname = nil}
-MultiLanguageNpcData['mx'][99233] = {name = "Brasal", subname = nil}
+MultiLanguageNpcData['mx'][99233] = {name = "Brasal viviente", subname = nil}
 MultiLanguageNpcData['mx'][99234] = {name = "Tradicionalista de Talrendis", subname = nil}
 MultiLanguageNpcData['mx'][99235] = {name = "Kill Credit: Bad Intentions", subname = nil}
 MultiLanguageNpcData['mx'][99236] = {name = "Centinela de Talrendis", subname = nil}
@@ -29983,7 +29984,7 @@ MultiLanguageNpcData['mx'][99993] = {name = "Xaxion Drak'eem", subname = nil}
 MultiLanguageNpcData['mx'][99994] = {name = "Jorad Maza", subname = nil}
 MultiLanguageNpcData['mx'][99995] = {name = "Justicar Julia Celeste", subname = nil}
 MultiLanguageNpcData['mx'][99996] = {name = "Leoric Von Zeldig", subname = nil}
-MultiLanguageNpcData['mx'][99997] = {name = "Arator el Redentor", subname = nil}
+MultiLanguageNpcData['mx'][99997] = {name = "Arator", subname = nil}
 MultiLanguageNpcData['mx'][99998] = {name = "Lord caballero Sangrevalor", subname = nil}
 MultiLanguageNpcData['mx'][99999] = {name = "Lord Solanar Sangre Colérica", subname = nil}
 MultiLanguageNpcData['mx'][100000] = {name = "Johnny Fenómeno", subname = nil}
@@ -48623,4 +48624,3 @@ MultiLanguageNpcData['mx'][120954] = {name = "Estandarte de la Alianza", subname
 MultiLanguageNpcData['mx'][120955] = {name = "Estandarte de la Horda", subname = nil}
 MultiLanguageNpcData['mx'][120956] = {name = "Ídolo de Aviana purificado", subname = nil}
 MultiLanguageNpcData['mx'][120957] = {name = "Desolación del acechador lunar", subname = nil}
-MultiLanguageNpcData['mx'][120958] = {name = "Caballero vil xorothiano", subname = nil}
