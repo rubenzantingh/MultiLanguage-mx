@@ -32014,7 +32014,7 @@ MultiLanguageNpcData['mx'][215114] = {name = "Rielero ferrocarga", subname = nil
 MultiLanguageNpcData['mx'][215115] = {name = "Hurón fisgón", subname = nil}
 MultiLanguageNpcData['mx'][215116] = {name = "Ratón fisgón", subname = nil}
 MultiLanguageNpcData['mx'][215118] = {name = "Alijo explosivo", subname = nil}
-MultiLanguageNpcData['mx'][215119] = {name = "Finkle Sharpshear", subname = "[Barber]"}
+MultiLanguageNpcData['mx'][215119] = {name = "Finkle Tijeras", subname = "Peluquero"}
 MultiLanguageNpcData['mx'][215120] = {name = "Elemental de relámpagos desenfrenado", subname = nil}
 MultiLanguageNpcData['mx'][215125] = {name = "Gurnot", subname = nil}
 MultiLanguageNpcData['mx'][215126] = {name = "Adalar", subname = nil}
@@ -34803,10 +34803,10 @@ MultiLanguageNpcData['mx'][218535] = {name = "Germira", subname = nil}
 MultiLanguageNpcData['mx'][218539] = {name = "Captain Exposition [DNT]", subname = nil}
 MultiLanguageNpcData['mx'][218541] = {name = "Anduin Wrynn", subname = nil}
 MultiLanguageNpcData['mx'][218542] = {name = "Cosechabot activado", subname = nil}
-MultiLanguageNpcData['mx'][218547] = {name = "Red Drake", subname = nil}
+MultiLanguageNpcData['mx'][218547] = {name = "Draco rojo", subname = nil}
 MultiLanguageNpcData['mx'][218549] = {name = "Brann Barbabronce", subname = nil}
 MultiLanguageNpcData['mx'][218550] = {name = "Terror from Beyond", subname = nil}
-MultiLanguageNpcData['mx'][218551] = {name = "Red Drake", subname = nil}
+MultiLanguageNpcData['mx'][218551] = {name = "Draco rojo", subname = nil}
 MultiLanguageNpcData['mx'][218552] = {name = "Red Drake", subname = nil}
 MultiLanguageNpcData['mx'][218553] = {name = "Red Drake", subname = nil}
 MultiLanguageNpcData['mx'][218554] = {name = "Looming Entropy", subname = nil}

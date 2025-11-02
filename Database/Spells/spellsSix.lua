@@ -41075,3 +41075,4 @@ MultiLanguageSpellData['mx'][398380] = {name = "Gigaimpacto", additional_info = 
 MultiLanguageSpellData['mx'][398382] = {name = "Puños de furia terránea", additional_info = nil}
 MultiLanguageSpellData['mx'][398383] = {name = "Puños de furia terránea", additional_info = "Canalizado (Hechizo de 6 seg) 16 seg de reutilización\n[q]Inflige hasta [24 * (([16% of Spell Power]))] p. de daño de naturaleza."}
 MultiLanguageSpellData['mx'][398384] = {name = "Ira ardiente", additional_info = "Alcance de ataques cuerpo a cuerpo\nInstante\n[q]Inflicts 3 Fire damage to an enemy every 1 sec for 3 s."}
+MultiLanguageSpellData['mx'][398385] = {name = "Ira ardiente", additional_info = "Hechizo de 2 seg 12 seg de reutilización\n[q]Te enfureces. Hace que los ataques cuerpo a cuerpo inflijan 3 p. de daño de fuego por s durante 3 s s."}

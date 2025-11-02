@@ -3786,7 +3786,7 @@ MultiLanguageSpellData['mx'][94468] = {name = "Beber", additional_info = "Instan
 MultiLanguageSpellData['mx'][94469] = {name = "Stun-Kneel (Skullcrusher)", additional_info = nil}
 MultiLanguageSpellData['mx'][94470] = {name = "Reemplazar toga de recluta", additional_info = nil}
 MultiLanguageSpellData['mx'][94471] = {name = "Life Blast [INTERNAL ONLY]", additional_info = nil}
-MultiLanguageSpellData['mx'][94472] = {name = "Contrición", additional_info = "Rango ilimitado\nInstante\n[q]Palabra de poder: escudo, Sanación relámpago, Renovar, Palabra de poder: radiancia y Palabra de poder: vida aplican Contrición a tu objetivo durante 15 s.\n\n Tu daño con hechizos sana a todos los objetivos afectados por Contrición un 33% del daño infligido.\n\n Aumenta la sanación un 100% cuando no estás en una banda."}
+MultiLanguageSpellData['mx'][94472] = {name = "Contrición", additional_info = "Rango ilimitado\nInstante\n[q]Palabra de poder: escudo, Sanación relámpago, Renovar, Palabra de poder: radiancia y Palabra de poder: vida aplican Contrición a tu objetivo durante 15 s.\n\n Tu daño con hechizos sana a todos los objetivos afectados por Contrición un 38% del daño infligido.\n\n Aumenta la sanación un 75% cuando no estás en una banda."}
 MultiLanguageSpellData['mx'][94473] = {name = "Descarga de Fuego", additional_info = "Alcance de 20 m\nHechizo de 1.5 seg\n[q]Acribilla al objetivo con fuego."}
 MultiLanguageSpellData['mx'][94477] = {name = "See Quest Invis 18", additional_info = nil}
 MultiLanguageSpellData['mx'][94478] = {name = "See Quest Invis 19", additional_info = nil}
@@ -45345,7 +45345,7 @@ MultiLanguageSpellData['mx'][157926] = {name = "Salto con embate", additional_in
 MultiLanguageSpellData['mx'][157928] = {name = "Puf", additional_info = nil}
 MultiLanguageSpellData['mx'][157930] = {name = "Summon Owynn Graddock (Seeking The Truth)", additional_info = nil}
 MultiLanguageSpellData['mx'][157931] = {name = "Descarga Arcana", additional_info = "Alcance de 100 m\nHechizo de 2.5 seg\n[q]Golpea al objetivo con una ráfaga de energía Arcana, lo que inflige 1018 p. de daño Arcano."}
-MultiLanguageSpellData['mx'][157932] = {name = "Cercenador corrupto", additional_info = "Rango ilimitado\nCanalizado (Hechizo de 1 seg)\n[q]Un haz de energía corrupta sale entre las orbes, lo que le inflige 6548 p. de daño de las Sombras a los enemigos golpeados por el haz."}
+MultiLanguageSpellData['mx'][157932] = {name = "Cercenador corrupto", additional_info = "Rango ilimitado\nCanalizado (Hechizo de 1 seg)\n[q]Un haz de energía corrupta sale entre las orbes, lo que le inflige 28235 p. de daño de las Sombras a los enemigos golpeados por el haz."}
 MultiLanguageSpellData['mx'][157933] = {name = "Cebo para rata", additional_info = "Alcance de 5 - 15 m\nHechizo de 0.5 seg\n[q]Usa este cebo para atraer ratas a los trituradores de hierro no tripulados."}
 MultiLanguageSpellData['mx'][157934] = {name = "Kill Credit", additional_info = nil}
 MultiLanguageSpellData['mx'][157935] = {name = "Owynn", additional_info = nil}
