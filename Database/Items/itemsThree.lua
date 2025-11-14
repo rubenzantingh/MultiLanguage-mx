@@ -32223,7 +32223,6 @@ MultiLanguageItemData['mx'][175680] = {name = "[q0]Pechera de malla de misión d
 MultiLanguageItemData['mx'][175681] = {name = "[q0]Pechera de cuero de misión de Oribos", additional_info = "Se liga al recogerlo\n{Pecho} {Cuero}\n2 armadura\nPrecio de venta:"}
 MultiLanguageItemData['mx'][175682] = {name = "[q0]Pies de tela de misión de Oribos", additional_info = "Se liga al recogerlo\n{Pies} {Tela}\n1 armadura\nPrecio de venta:"}
 MultiLanguageItemData['mx'][175683] = {name = "[q0]Pies de malla de misión de Oribos", additional_info = "Se liga al recogerlo\n{Pies} {Malla}\n2 armadura\nPrecio de venta:"}
-MultiLanguageItemData['mx'][175684] = {name = "[q0]Pies de cuero de misión de Oribos", additional_info = "Se liga al recogerlo\n{Pies} {Cuero}\n1 armadura\nPrecio de venta:"}
 MultiLanguageItemData['mx'][175685] = {name = "[q0]Mano de cuero de misión de Oribos", additional_info = "Se liga al recogerlo\n{Manos} {Cuero}\n1 armadura\nPrecio de venta:"}
 MultiLanguageItemData['mx'][175686] = {name = "[q0]Mano de tela de misión de Oribos", additional_info = "Se liga al recogerlo\n{Manos} {Tela}\n1 armadura\nPrecio de venta:"}
 MultiLanguageItemData['mx'][175687] = {name = "[q0]Mano de malla de misión de Oribos", additional_info = "Se liga al recogerlo\n{Manos} {Malla}\n2 armadura\nPrecio de venta:"}

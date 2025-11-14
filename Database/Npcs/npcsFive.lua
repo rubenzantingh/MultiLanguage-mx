@@ -4667,7 +4667,8 @@ MultiLanguageNpcData['mx'][254092] = {name = "Eternus", subname = nil}
 MultiLanguageNpcData['mx'][254093] = {name = "Eternus", subname = nil}
 MultiLanguageNpcData['mx'][254164] = {name = "Aspersor", subname = nil}
 MultiLanguageNpcData['mx'][254369] = {name = "Controlador", subname = nil}
-MultiLanguageNpcData['mx'][257023] = {name = "Hyena", subname = nil}
+MultiLanguageNpcData['mx'][256938] = {name = "Sirviente mejorado de Khadgar", subname = nil}
+MultiLanguageNpcData['mx'][257023] = {name = "Hiena", subname = nil}
 MultiLanguageNpcData['mx'][257026] = {name = "Uñagrieta", subname = nil}
 MultiLanguageNpcData['mx'][257031] = {name = "Can manáfago", subname = nil}
 MultiLanguageNpcData['mx'][257032] = {name = "Guardián de piedra", subname = nil}
