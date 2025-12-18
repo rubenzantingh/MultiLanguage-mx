@@ -20687,7 +20687,7 @@ MultiLanguageNpcData['mx'][28756] = {name = "Sumo sacerdote Hawinni", subname = 
 MultiLanguageNpcData['mx'][28757] = {name = "High Priest Hawinni Kill Credit Bunny", subname = nil}
 MultiLanguageNpcData['mx'][28758] = {name = "Reconnaisaince Flight Kill Credit", subname = nil}
 MultiLanguageNpcData['mx'][28759] = {name = "Maligno volador", subname = nil}
-MultiLanguageNpcData['mx'][28760] = {name = "Hargus el Cojo", subname = "Suministros"}
+MultiLanguageNpcData['mx'][28760] = {name = "Hargus, el Mugroso", subname = "Suministros"}
 MultiLanguageNpcData['mx'][28761] = {name = "Geist Spawn Bunny", subname = nil}
 MultiLanguageNpcData['mx'][28762] = {name = "Drakuru KC Bunny 02", subname = nil}
 MultiLanguageNpcData['mx'][28765] = {name = "El Rey Exánime", subname = nil}

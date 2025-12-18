@@ -1,5 +1,3 @@
-MultiLanguageSpellData['mx'][280925] = {name = "Cosmetic", additional_info = nil}
-MultiLanguageSpellData['mx'][280926] = {name = "Toque del vudú", additional_info = "Alcance de 40 m\nInstante\n[q]Sana al objetivo por 0 p. cada 5.2 s y se acumula hasta 0 veces. El monto de sanación es bajo al principio y aumenta durante el transcurso de la habilidad."}
 MultiLanguageSpellData['mx'][280927] = {name = "Comer", additional_info = nil}
 MultiLanguageSpellData['mx'][280928] = {name = "Enter Mole Machine", additional_info = nil}
 MultiLanguageSpellData['mx'][280929] = {name = "Ride Vehicle", additional_info = nil}
@@ -1747,7 +1745,7 @@ MultiLanguageSpellData['mx'][283184] = {name = "Salto relámpago", additional_in
 MultiLanguageSpellData['mx'][283185] = {name = "Recordando", additional_info = nil}
 MultiLanguageSpellData['mx'][283186] = {name = "Puñado de hachas", additional_info = "Alcance de 100 m\n{Instante} {1.5 seg de reutilización}\n[q]Le ordena a Rexxar que lance todas las hachas que pueda contra el tanque de azerita."}
 MultiLanguageSpellData['mx'][283187] = {name = "Golpe de relámpago", additional_info = "Alcance de 100 m\n{Instante} {5 seg de reutilización}\n[q]Le ordena a Thomas Zelling que use su Golpe de relámpago sobre el tanque de azerita."}
-MultiLanguageSpellData['mx'][283188] = {name = "Golpe de molienda", additional_info = "Alcance de 50 m\nHechizo de 2 seg\n[q]Lanza un tonel de molienda repleto de granos calientes a la ubicación objetivo."}
+MultiLanguageSpellData['mx'][283188] = {name = "Golpe de molienda", additional_info = "Alcance de 100 m\nHechizo de 2 seg\n[q]Lanza un tonel de molienda repleto de granos calientes a la ubicación objetivo."}
 MultiLanguageSpellData['mx'][283189] = {name = "Corazón de Azeroth", additional_info = "Alcance de 100 m\n{Instante} {7 seg de reutilización}\n[q]Usa el Corazón de Azeroth rodeado por el ritual de Zelling para desviar un misil de azerita durante 3 segundos."}
 MultiLanguageSpellData['mx'][283190] = {name = "Embate de ancla", additional_info = "{Instante} {3 seg de reutilización}\n[q]Lanza un golpe con un ancla enorme que inflige 70 p. de daño físico a los enemigos en un cono de 20 m."}
 MultiLanguageSpellData['mx'][283191] = {name = "Leyendo pergamino", additional_info = nil}
@@ -2787,7 +2785,7 @@ MultiLanguageSpellData['mx'][284401] = {name = "Palabra de las sombras: dolor", 
 MultiLanguageSpellData['mx'][284402] = {name = "Toque vampírico", additional_info = "Alcance de 40 m\nHechizo de 1.5 seg\n[q]Un toque de oscuridad que inflige 10 p. de daño de las sombras durante 21 s y te sana por un equivalente al 50% del daño infligido.\n\n Si Toque vampírico se disipa, el disipador huye horrorizado durante 3 s.\n\nGenera 6 p. de demencia."}
 MultiLanguageSpellData['mx'][284404] = {name = "Canción tentadora", additional_info = nil}
 MultiLanguageSpellData['mx'][284405] = {name = "Canción tentadora", additional_info = "Alcance de 1000 m\nInstante\n[q]Tienta a un jugador cercano y hace que camine hacia el taumaturgo. Si el objetivo alcanza su destino, salta de la nave. Canción tentadora también inflige 872 p. de daño de naturaleza cada 1 s."}
-MultiLanguageSpellData['mx'][284406] = {name = "Canción tentadora", additional_info = "Alcance de 100 m\nHechizo de 3 seg\n[q]Tienta a un jugador cercano y hace que camine hacia el taumaturgo. Si el objetivo alcanza su destino, salta de la nave. Canción tentadora también inflige 872 p. de daño de naturaleza cada 1 s."}
+MultiLanguageSpellData['mx'][284406] = {name = "Canción tentadora", additional_info = "Alcance de 100 m\nHechizo de 3 seg\n[q]Tienta a un jugador cercano y hace que camine hacia el taumaturgo. Si el objetivo alcanza su destino, salta de la nave. Canción tentadora también inflige 4 p. de daño de naturaleza cada 1 s."}
 MultiLanguageSpellData['mx'][284407] = {name = "Óbito marino", additional_info = "Alcance de 30 m\nHechizo de 1.5 seg\n[q]Golpea al objetivo y lo mata al instante."}
 MultiLanguageSpellData['mx'][284408] = {name = "Lluvia de meteoritos", additional_info = "Alcance de 100 m\nInstante\n[q]El taumaturgo convoca un meteorito en la ubicación objetivo que inflige 30 p. de daño de fuego a todos los jugadores que están en un radio de 8 m del impacto."}
 MultiLanguageSpellData['mx'][284409] = {name = "Explosión mental", additional_info = "Alcance de 40 mHechizo de 1.5 seg 9 seg de reutilización\n1 carga\n[q]Golpea la mente del objetivo y le inflige 6 p. de daño de las sombras.\n\nGenera 15 p. de demencia."}
@@ -8014,7 +8012,7 @@ MultiLanguageSpellData['mx'][290485] = {name = "El quinto martillo", additional_
 MultiLanguageSpellData['mx'][290486] = {name = "El quinto martillo", additional_info = "Alcance de 45 m\nHechizo de 2 seg\n[q]Inflige daño físico en línea."}
 MultiLanguageSpellData['mx'][290487] = {name = "Sentencia", additional_info = "Alcance de 30 m\n{Instante} {5.7 seg de reutilización}\n[q]Desata 5 p. de daño sagrado sobre un enemigo."}
 MultiLanguageSpellData['mx'][290488] = {name = "El quinto martillo", additional_info = "Rango ilimitado\nInstante\n[q]Inflige 35 p. de daño de las sombras e inflige 18 p. de daño de las sombras cada 1 s durante 20 s."}
-MultiLanguageSpellData['mx'][290489] = {name = "El quinto martillo", additional_info = "Rango ilimitado\nInstante\n[q]Inflige 1000 p. de daño."}
+MultiLanguageSpellData['mx'][290489] = {name = "El quinto martillo", additional_info = "Rango ilimitado\nInstante\n[q]Inflige 150 p. de daño físico."}
 MultiLanguageSpellData['mx'][290490] = {name = "Martillo bendito", additional_info = "Alcance de 100 m\nInstante\n[q]Lanza en espiral un Martillo bendito que inflige 1 p. de daño sagrado a los enemigos que golpea y hace que te inflijan un 12% menos de daño con su próximo ataque automático."}
 MultiLanguageSpellData['mx'][290491] = {name = "Escudo del honrado", additional_info = "Alcance de ataques cuerpo a cuerpo\n{Instante} {9 seg de reutilización}\n[q]Golpea a los enemigos que están frente a ti con tu escudo, inflige 2 p. de daño sagrado y aumenta tu armadura un 125% durante 4.5 s."}
 MultiLanguageSpellData['mx'][290492] = {name = "Mano del protector", additional_info = "Alcance de 40 m\n{Instante} {14 seg de reutilización}\n[q]Invoca a la Luz para sanar 15p. De salud a un objetivo aliado. La sanación aumenta hasta un 200% según la salud que le falte."}
@@ -8266,7 +8264,7 @@ MultiLanguageSpellData['mx'][290788] = {name = "Bendición de serafín", additio
 MultiLanguageSpellData['mx'][290789] = {name = "Bendición de serafín", additional_info = "Alcance de 50 m\n{Instante} {1 seg de reutilización}\n[q]Cuando tú o los aliados cercanos en un radio de 40 m caen por debajo del 40% de salud, tu siguiente Destello de luz lanzado dentro de 5 s es instantáneo y sana un 50% más. Este efecto no puede ocurrir más de una vez cada 15 s."}
 MultiLanguageSpellData['mx'][290790] = {name = "Juego de té cautivador", additional_info = "Alcance de 10 m\nInstante\n[q]Prepara una merienda cautivadora para tus amigos."}
 MultiLanguageSpellData['mx'][290792] = {name = "Redimido", additional_info = "Instante\n[q]Cuando la salud de un aliado en un radio de 40 m cae por debajo del 25%, obtienes Cólera vengativa durante 6 s.\n\n Cuando un aliado muere en un radio de 40 m a tu alrededor, puedes lanzar tu hechizo Redención mientras estás en combate dentro de los siguientes 20 s con un tiempo de lanzamiento de 6 s. Si usas Escudo divino o Bendición de protección sobre ti el efecto se cancela."}
-MultiLanguageSpellData['mx'][290793] = {name = "Trinidad", additional_info = "Alcance de 100 m\nInstante\n[q]La duración de Expiación aumenta 10 s.\n\n El tiempo de lanzamiento de Punición, Penitencia, Explosión mental y Explosión del Vacío se reduce un 30% cuando tienes Expiación sobre 3 aliados o más."}
+MultiLanguageSpellData['mx'][290793] = {name = "Trinidad", additional_info = "Alcance de 100 m\nInstante\n[q]La duración de Expiación aumenta 10 s.\n\n El tiempo de lanzamiento de Punición, Penitencia, Explosión mental y Explosión del Vacío se reduce un 10% cuando tienes Expiación sobre 3 aliados o más."}
 MultiLanguageSpellData['mx'][290794] = {name = "Plantando", additional_info = "Alcance de 5 m\nHechizo de 1.5 seg\n[q]Hace crecer un azotador carnívoro cuando se planta en suelo fértil dentro de la Arboleda Coral."}
 MultiLanguageSpellData['mx'][290795] = {name = "Quest Credit: Meet Magni in Nazmir", additional_info = nil}
 MultiLanguageSpellData['mx'][290796] = {name = "AI Cast Quest Credit: Meet Magni in Nazmir", additional_info = nil}
@@ -20021,7 +20019,7 @@ MultiLanguageSpellData['mx'][305510] = {name = "¡Berrido de convocación!", add
 MultiLanguageSpellData['mx'][305511] = {name = "Marcar", additional_info = nil}
 MultiLanguageSpellData['mx'][305512] = {name = "Investigando...", additional_info = nil}
 MultiLanguageSpellData['mx'][305514] = {name = "Rastrear alma", additional_info = nil}
-MultiLanguageSpellData['mx'][305515] = {name = "Aliento necrótico", additional_info = "Alcance de 40 mHechizo de 4 seg 5 seg de reutilización\n[q]Inflicts 30 Shadow damage to all enemies in front of the caster."}
+MultiLanguageSpellData['mx'][305515] = {name = "Aliento sombrío", additional_info = "Alcance de 40 mHechizo de 4 seg 5 seg de reutilización\n[q]Inflicts 30 Shadow damage to all enemies in front of the caster."}
 MultiLanguageSpellData['mx'][305516] = {name = "Investigando...", additional_info = nil}
 MultiLanguageSpellData['mx'][305517] = {name = "Rastrear alma", additional_info = nil}
 MultiLanguageSpellData['mx'][305519] = {name = "Liberar yak", additional_info = nil}
@@ -25577,7 +25575,7 @@ MultiLanguageSpellData['mx'][313255] = {name = "Ralentizar", additional_info = "
 MultiLanguageSpellData['mx'][313257] = {name = "Instalación de pechera", additional_info = nil}
 MultiLanguageSpellData['mx'][313258] = {name = "Ritual del Vacío", additional_info = "Alcance de 500 m\nInstante\n[q]Si no ayudas en el Ritual del Vacío, los enemigos en un radio de 500 m del área de impacto recibirán 300 p. de daño de las sombras."}
 MultiLanguageSpellData['mx'][313259] = {name = "Toque sepulcral", additional_info = "Alcance de ataques cuerpo a cuerpo\nInstante\n[q]Maldice al objetivo hasta los huesos, lo que aumenta el daño que recibe un 20% durante 30 s."}
-MultiLanguageSpellData['mx'][313260] = {name = "Ráfaga necrótica", additional_info = nil}
+MultiLanguageSpellData['mx'][313260] = {name = "Ráfaga de las sombras", additional_info = nil}
 MultiLanguageSpellData['mx'][313261] = {name = "Ráfaga necrótica", additional_info = nil}
 MultiLanguageSpellData['mx'][313262] = {name = "Energía aterradora", additional_info = nil}
 MultiLanguageSpellData['mx'][313263] = {name = "Perdido en una pesadilla", additional_info = "100% del energía base\nHechizo de 3 seg\n[q]Cuando un Terror de las sombras alcanza 100 p. de energía, atrapa a sus enemigos en una pesadilla que los vuelve hostiles a todos."}
@@ -29867,7 +29865,7 @@ MultiLanguageSpellData['mx'][319289] = {name = "Escudo de carne", additional_inf
 MultiLanguageSpellData['mx'][319290] = {name = "Escudo de carne", additional_info = "Instante\n[q]Rodea al taumaturgo con un escudo que dura 30 s y absorbe todo el daño."}
 MultiLanguageSpellData['mx'][319291] = {name = "Absorción animística", additional_info = nil}
 MultiLanguageSpellData['mx'][319292] = {name = "Rompeterra", additional_info = "Alcance de 100 mHechizo de 3 seg 5 seg de reutilización\n[q]El taumaturgo asesta un golpazo en la tierra que inflige 20 p. de daño físico a los objetivos en una línea frente al taumaturgo y los repele."}
-MultiLanguageSpellData['mx'][319294] = {name = "Descarga de espíritu", additional_info = "Alcance de 40 m\nHechizo de 1.5 seg\n[q]Inflicts 5 Shadow damage to an enemy."}
+MultiLanguageSpellData['mx'][319294] = {name = "Descarga de las sombras", additional_info = "Alcance de 40 m\nHechizo de 1.5 seg\n[q]Inflicts 5 Shadow damage to an enemy."}
 MultiLanguageSpellData['mx'][319295] = {name = "Evacuación", additional_info = nil}
 MultiLanguageSpellData['mx'][319296] = {name = "Descarga de ánima", additional_info = nil}
 MultiLanguageSpellData['mx'][319297] = {name = "Descarga de ánima", additional_info = nil}
@@ -37607,13 +37605,13 @@ MultiLanguageSpellData['mx'][329836] = {name = "Explosión inestable", additiona
 MultiLanguageSpellData['mx'][329837] = {name = "Montón de ánima", additional_info = nil}
 MultiLanguageSpellData['mx'][329838] = {name = "Disparo", additional_info = "Alcance de 30 m\nHechizo de 1.5 seg\nRequiere Arma a distancia\n[q]Dispara a un enemigo y le inflige daño físico."}
 MultiLanguageSpellData['mx'][329839] = {name = "Martillando", additional_info = nil}
-MultiLanguageSpellData['mx'][329840] = {name = "Barrera de sangre", additional_info = "{Instante} {2 min de reutilización}\n[q]Inflige 1555 p. de daño de las sombras dividido entre todos los enemigos cercanos y forma una Barrera de sangre sobre ti. La Barrera de sangre absorbe [ 6510 * (1 + Versatilidad)] p. de daño durante 10 s.\n\n El daño y la absorción aumentan por cada enemigo golpeado, hasta 5 enemigos."}
+MultiLanguageSpellData['mx'][329840] = {name = "Barrera de sangre", additional_info = "{Instante} {2 min de reutilización}\n[q]Inflige 2333 p. de daño de las sombras dividido entre todos los enemigos cercanos y forma una Barrera de sangre sobre ti. La Barrera de sangre absorbe [ 9765 * (1 + Versatilidad)] p. de daño durante 10 s.\n\n El daño y la absorción aumentan por cada enemigo golpeado, hasta 5 enemigos."}
 MultiLanguageSpellData['mx'][329841] = {name = "Estela de sombras", additional_info = "Instante\n[q]Libera una ola de magia oscura que avanza e inflige 17 p. de daño de las sombras por segundo a todos los jugadores a su paso."}
 MultiLanguageSpellData['mx'][329842] = {name = "Estaca", additional_info = nil}
 MultiLanguageSpellData['mx'][329844] = {name = "Martillando", additional_info = nil}
 MultiLanguageSpellData['mx'][329845] = {name = "Estela de sombras", additional_info = nil}
 MultiLanguageSpellData['mx'][329847] = {name = "Engendro", additional_info = nil}
-MultiLanguageSpellData['mx'][329849] = {name = "Barrera de sangre", additional_info = "Instante\n[q]Inflige 1555 p. de daño de las sombras dividido entre todos los enemigos cercanos y forma una Barrera de sangre sobre ti. La Barrera de sangre absorbe [ 6510 * (1 + Versatilidad)] p. de daño durante 10 s.\n\n El daño y la absorción aumentan por cada enemigo golpeado, hasta 5 enemigos."}
+MultiLanguageSpellData['mx'][329849] = {name = "Barrera de sangre", additional_info = "Instante\n[q]Inflige 2333 p. de daño de las sombras dividido entre todos los enemigos cercanos y forma una Barrera de sangre sobre ti. La Barrera de sangre absorbe [ 9765 * (1 + Versatilidad)] p. de daño durante 10 s.\n\n El daño y la absorción aumentan por cada enemigo golpeado, hasta 5 enemigos."}
 MultiLanguageSpellData['mx'][329850] = {name = "Invocar gato", additional_info = nil}
 MultiLanguageSpellData['mx'][329851] = {name = "Invocar gato", additional_info = nil}
 MultiLanguageSpellData['mx'][329852] = {name = "Barrera de sangre", additional_info = nil}
@@ -37634,7 +37632,7 @@ MultiLanguageSpellData['mx'][329868] = {name = "Mata al jugador", additional_inf
 MultiLanguageSpellData['mx'][329869] = {name = "Mata al jugador", additional_info = nil}
 MultiLanguageSpellData['mx'][329870] = {name = "Mata al jugador", additional_info = "Instante"}
 MultiLanguageSpellData['mx'][329871] = {name = "Teletransporte hilarante", additional_info = nil}
-MultiLanguageSpellData['mx'][329872] = {name = "Tótem de agarre de las sombras", additional_info = "Instante\n[q]Coloca un Tótem de agarre de las sombras a tus pies durante 15 s que cosecha a tu objetivo y le inflige 227 p. de daño de las sombras cada 1 s. Cada vez que un objetivo muere bajo los efectos de Tótem de agarre de las sombras, sanas 740 p. y este tiempo de reutilización se reduce 15 s."}
+MultiLanguageSpellData['mx'][329872] = {name = "Tótem de agarre de las sombras", additional_info = "Instante\n[q]Coloca un Tótem de agarre de las sombras a tus pies durante 15 s que cosecha a tu objetivo y le inflige 253 p. de daño de las sombras cada 1 s. Cada vez que un objetivo muere bajo los efectos de Tótem de agarre de las sombras, sanas 740 p. y este tiempo de reutilización se reduce 15 s."}
 MultiLanguageSpellData['mx'][329874] = {name = "Torbellino arcano", additional_info = nil}
 MultiLanguageSpellData['mx'][329875] = {name = "Carnicería", additional_info = "Instante\n[q]Los ataques y las habilidades de Remornia hacen que los jugadores afectados sangren y sufran 2133 p. de daño físico cada 1 durante 15 s. Este efecto se acumula."}
 MultiLanguageSpellData['mx'][329877] = {name = "Tormenta de cometas", additional_info = nil}
@@ -38998,7 +38996,7 @@ MultiLanguageSpellData['mx'][331515] = {name = "Castigado", additional_info = ni
 MultiLanguageSpellData['mx'][331516] = {name = "Potenciar guardaalmas", additional_info = "Alcance de 10 m\nInstante\n[q]Jaina potencia el guardaalmas, lo cual le permite rescatar mortales de Torghast, la Torre de los Condenados."}
 MultiLanguageSpellData['mx'][331517] = {name = "Revelador de pista", additional_info = nil}
 MultiLanguageSpellData['mx'][331519] = {name = "[q4]Llamado de los jinetes", additional_info = "[q0][Anima Power]Instante\n[q]Tu Portón de la muerte invoca a un Jinete de la Espada de Ébano para que te ayude en la batalla, pero tiene 10 minutos de tiempo de reutilización."}
-MultiLanguageSpellData['mx'][331523] = {name = "Tótem de agarre de las sombras", additional_info = "{Instante} {2 min de reutilización}\n[q]Coloca un Tótem de agarre de las sombras a tus pies durante 15 s que cosecha a tu objetivo y le inflige 227 p. de daño de las sombras cada 1 s. Cada vez que un objetivo muere bajo los efectos de Tótem de agarre de las sombras, sanas 740 p. y este tiempo de reutilización se reduce 15 s."}
+MultiLanguageSpellData['mx'][331523] = {name = "Tótem de agarre de las sombras", additional_info = "{Instante} {2 min de reutilización}\n[q]Coloca un Tótem de agarre de las sombras a tus pies durante 15 s que cosecha a tu objetivo y le inflige 253 p. de daño de las sombras cada 1 s. Cada vez que un objetivo muere bajo los efectos de Tótem de agarre de las sombras, sanas 740 p. y este tiempo de reutilización se reduce 15 s."}
 MultiLanguageSpellData['mx'][331524] = {name = "Portón de la muerte", additional_info = "[q0][Anima Power]Hechizo de 4 seg 10 min de reutilización\n[q]Invoca a un Jinete de la Espada de Ébano para que te ayude en la batalla."}
 MultiLanguageSpellData['mx'][331525] = {name = "Sigilo", additional_info = nil}
 MultiLanguageSpellData['mx'][331526] = {name = "Descarga de poder", additional_info = nil}
@@ -39007,11 +39005,11 @@ MultiLanguageSpellData['mx'][331528] = {name = "Dosis corrosiva", additional_inf
 MultiLanguageSpellData['mx'][331529] = {name = "Patada bien merecida", additional_info = "Alcance de 15 m\nHechizo de 0.4 seg\n[q]Echa al objetivo de una patada por ser tan grosero."}
 MultiLanguageSpellData['mx'][331530] = {name = "Hojaveneno", additional_info = nil}
 MultiLanguageSpellData['mx'][331531] = {name = "Crecimiento fibroso", additional_info = nil}
-MultiLanguageSpellData['mx'][331532] = {name = "Tótem de agarre de las sombras", additional_info = "Instante\n[q]Coloca un Tótem de agarre de las sombras a tus pies durante 15 s que cosecha a tu objetivo y le inflige 227 p. de daño de las sombras cada 1 s. Cada vez que un objetivo muere bajo los efectos de Tótem de agarre de las sombras, sanas 740 p. y este tiempo de reutilización se reduce 15 s."}
+MultiLanguageSpellData['mx'][331532] = {name = "Tótem de agarre de las sombras", additional_info = "Instante\n[q]Coloca un Tótem de agarre de las sombras a tus pies durante 15 s que cosecha a tu objetivo y le inflige 253 p. de daño de las sombras cada 1 s. Cada vez que un objetivo muere bajo los efectos de Tótem de agarre de las sombras, sanas 740 p. y este tiempo de reutilización se reduce 15 s."}
 MultiLanguageSpellData['mx'][331533] = {name = "Salió rana", additional_info = nil}
 MultiLanguageSpellData['mx'][331535] = {name = "Dosis corrosiva", additional_info = "[q0][Anima Power]Alcance de 100 m\nInstante\n[q]Vivificar deja una bruma corrosiva alrededor de los objetivos que sana e inflige un 50% de su sanación como daño de naturaleza a los enemigos cercanos cada 1 s durante 3 s."}
 MultiLanguageSpellData['mx'][331536] = {name = "Dosis corrosiva", additional_info = "[q0][Anima Power]Alcance de 100 m\nInstante\n[q]Vivificar deja una bruma corrosiva alrededor de los objetivos que sana e inflige un 50% de su sanación como daño de naturaleza a los enemigos cercanos cada 1 s durante 3 s."}
-MultiLanguageSpellData['mx'][331537] = {name = "Tótem de agarre de las sombras", additional_info = "Alcance de 50 m\nInstante\n[q]Coloca un Tótem de agarre de las sombras a tus pies durante 15 s que cosecha a tu objetivo y le inflige 227 p. de daño de las sombras cada 1 s. Cada vez que un objetivo muere bajo los efectos de Tótem de agarre de las sombras, sanas 740 p. y este tiempo de reutilización se reduce 15 s."}
+MultiLanguageSpellData['mx'][331537] = {name = "Tótem de agarre de las sombras", additional_info = "Alcance de 50 m\nInstante\n[q]Coloca un Tótem de agarre de las sombras a tus pies durante 15 s que cosecha a tu objetivo y le inflige 253 p. de daño de las sombras cada 1 s. Cada vez que un objetivo muere bajo los efectos de Tótem de agarre de las sombras, sanas 740 p. y este tiempo de reutilización se reduce 15 s."}
 MultiLanguageSpellData['mx'][331538] = {name = "Lata supercargada", additional_info = "Alcance de 100 m\n{Instante} {10 seg de reutilización}\n[q]Indica a Mikanikos que arroje una Lata supercargada a la ubicación objetivo. Después de 4 s, explota e inflige daño arcano a los enemigos cercanos."}
 MultiLanguageSpellData['mx'][331540] = {name = "Lata supercargada", additional_info = nil}
 MultiLanguageSpellData['mx'][331541] = {name = "Lata supercargada", additional_info = nil}
@@ -39822,7 +39820,7 @@ MultiLanguageSpellData['mx'][332478] = {name = "Colmisangre lomoabrasado", addit
 MultiLanguageSpellData['mx'][332479] = {name = "Jump Trigger Visual", additional_info = nil}
 MultiLanguageSpellData['mx'][332480] = {name = "Espinazo", additional_info = "Hechizo de 1.5 seg\n[q]Invoca y retira esta montura.\n[q]\"Nerissa ha pisoteado una infinidad de cadáveres a lomos de Espinazo en su ascenso para convertirse en comandante de las fuerzas juraexánimes de la Casa de Rituales.\"\nBotín:\nNerissa Sincorazón\nZona:\nMaldraxxus"}
 MultiLanguageSpellData['mx'][332481] = {name = "Rebote de nubes", additional_info = "Instante\n[q]Lanza al objetivo por los aires."}
-MultiLanguageSpellData['mx'][332482] = {name = "Calaverón de la Rajahuesos", additional_info = "Hechizo de 1.5 seg\n[q]Invoca y retira esta montura."}
+MultiLanguageSpellData['mx'][332482] = {name = "Calaverón de la Rajahuesos", additional_info = "Hechizo de 1.5 seg\n[q]Invoca y retira esta montura.\n[q]\"Sabreil era conocida por la eficiencia despiadada con la que desmembraba a sus enemigos y se los entregaba a su fiel calaverón como alimento.\"\nVendedor:\nColeccionista Ta'Steld\nZona:\nOribos\nCosto:\n5000"}
 MultiLanguageSpellData['mx'][332483] = {name = "RP Scene Convo", additional_info = nil}
 MultiLanguageSpellData['mx'][332484] = {name = "Colmisangre escabroso", additional_info = "Hechizo de 1.5 seg\n[q]Invoca y retira esta montura.\n[q]\"Solo los colmisangre que sobreviven al Concurso de Conquista tienen el derecho de convertirse en una montura digna del Ejército Inmortal.\"\nVendedor:\nNalcorn Talsen\nZona:\nMaldraxxus\nFacción\nEl Ejército Inmortal - Exaltado\nCosto:\n30000"}
 MultiLanguageSpellData['mx'][332486] = {name = "RP Scene Convo", additional_info = nil}
@@ -41684,7 +41682,7 @@ MultiLanguageSpellData['mx'][334797] = {name = "Arrancar alma", additional_info 
 MultiLanguageSpellData['mx'][334798] = {name = "Cría de escamas brillantes", additional_info = "Instante\n[q]Haz clic derecho para invocar y retirar a este compañero."}
 MultiLanguageSpellData['mx'][334800] = {name = "Enfurecer", additional_info = "Instante\n[q]Inflige un 100% más de daño."}
 MultiLanguageSpellData['mx'][334801] = {name = "Quitar barrera", additional_info = nil}
-MultiLanguageSpellData['mx'][334802] = {name = "Presencia inspirala", additional_info = "Instante\nAproximadamente 1 activaciones por minuto\nComponentes:\nInsignia de comandantes del aire\n[q]Cuando obtienes este objeto: Adquieres una Presencia inspiralada. Los ataques que recibes tienen una probabilidad de otorgar 435 p. de versatilidad a los miembros del grupo en un radio de 50 m durante 18 s. Solo se puede usar en exteriores en las Tierras de las Sombras.\n(10s de reutilización)"}
+MultiLanguageSpellData['mx'][334802] = {name = "Presencia inspirala", additional_info = "Instante\nAproximadamente 1 activaciones por minuto\nComponentes:\nInsignia de comandante del aire\n[q]Cuando obtienes este objeto: Adquieres una Presencia inspiralada. Los ataques que recibes tienen una probabilidad de otorgar 435 p. de versatilidad a los miembros del grupo en un radio de 50 m durante 18 s. Solo se puede usar en exteriores en las Tierras de las Sombras.\n(10s de reutilización)"}
 MultiLanguageSpellData['mx'][334804] = {name = "Presencia inspirala", additional_info = "Instante\n[q]Cuando obtienes este objeto: Adquieres una Presencia inspiralada. Los ataques que recibes tienen una probabilidad de otorgar 435 p. de versatilidad a los miembros del grupo en un radio de 50 m durante 18 s. Solo se puede usar en exteriores en las Tierras de las Sombras."}
 MultiLanguageSpellData['mx'][334805] = {name = "Estallido necrótico", additional_info = "Instante"}
 MultiLanguageSpellData['mx'][334806] = {name = "Estallido necrótico", additional_info = nil}
@@ -44427,3 +44425,5 @@ MultiLanguageSpellData['mx'][338278] = {name = "Tapiz de telar", additional_info
 MultiLanguageSpellData['mx'][338279] = {name = "Madeja de tejido orgulloso", additional_info = "Hechizo de 1.5 seg\nComponentes:\nPaño de tejido de orgullo (2)\nObjeto de misión"}
 MultiLanguageSpellData['mx'][338280] = {name = "Paño de tejido de orgullo", additional_info = "Hechizo de 1.5 seg\nComponentes:\nHilo de orgullo (3)\nObjeto de misión"}
 MultiLanguageSpellData['mx'][338281] = {name = "Condition Aura", additional_info = nil}
+MultiLanguageSpellData['mx'][338282] = {name = "Soltar semilla", additional_info = "Instante\n[q]Suelta la semilla de hidra a tus pies."}
+MultiLanguageSpellData['mx'][338283] = {name = "Lunarlight Bud - Flag Quest", additional_info = nil}

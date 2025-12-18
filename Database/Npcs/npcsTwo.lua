@@ -34324,8 +34324,8 @@ MultiLanguageNpcData['mx'][105046] = {name = "Angus Puño de Hierro", subname = 
 MultiLanguageNpcData['mx'][105047] = {name = "Behemoth de magma", subname = nil}
 MultiLanguageNpcData['mx'][105048] = {name = "Tronamagma", subname = nil}
 MultiLanguageNpcData['mx'][105049] = {name = "Trepadora Telaceniza", subname = nil}
-MultiLanguageNpcData['mx'][105050] = {name = "Aparición llameante", subname = "Sirviente de Smolderon"}
-MultiLanguageNpcData['mx'][105051] = {name = "Furia llamas infernales", subname = "Sirviente de Smolderon"}
+MultiLanguageNpcData['mx'][105050] = {name = "Aparición llameante", subname = "Sirviente de Fulguron"}
+MultiLanguageNpcData['mx'][105051] = {name = "Furia llamas infernales", subname = "Sirviente de Fulguron"}
 MultiLanguageNpcData['mx'][105052] = {name = "Sabueso calcinado anciano", subname = nil}
 MultiLanguageNpcData['mx'][105053] = {name = "Matriarca Telaceniza", subname = nil}
 MultiLanguageNpcData['mx'][105054] = {name = "Sylara Canto férreo", subname = nil}
@@ -36199,7 +36199,7 @@ MultiLanguageNpcData['mx'][107244] = {name = "Tehd Zapatero", subname = nil}
 MultiLanguageNpcData['mx'][107245] = {name = "Marius Aterravil", subname = "Illidari"}
 MultiLanguageNpcData['mx'][107246] = {name = "Neptulon", subname = nil}
 MultiLanguageNpcData['mx'][107247] = {name = "Therazane", subname = "La Madre Pétrea"}
-MultiLanguageNpcData['mx'][107248] = {name = "Señor del Fuego Smolderon", subname = "Señor de las Tierras de Fuego"}
+MultiLanguageNpcData['mx'][107248] = {name = "Señor del Fuego Fulguron", subname = "Señor de las Tierras de Fuego"}
 MultiLanguageNpcData['mx'][107249] = {name = "Sitio de invasión", subname = nil}
 MultiLanguageNpcData['mx'][107250] = {name = "Ojo de Kilrogg", subname = nil}
 MultiLanguageNpcData['mx'][107251] = {name = "Comandante sondeador Eksis", subname = nil}
@@ -39994,7 +39994,7 @@ MultiLanguageNpcData['mx'][111261] = {name = "Malfurion Tempestira", subname = n
 MultiLanguageNpcData['mx'][111262] = {name = "Ag'tor Puñosangre", subname = nil}
 MultiLanguageNpcData['mx'][111263] = {name = "Tur Patafuria", subname = nil}
 MultiLanguageNpcData['mx'][111264] = {name = "Profeta Velen", subname = nil}
-MultiLanguageNpcData['mx'][111265] = {name = "Arator el Redentor", subname = nil}
+MultiLanguageNpcData['mx'][111265] = {name = "Arator", subname = nil}
 MultiLanguageNpcData['mx'][111266] = {name = "Justicar Julia Celeste", subname = nil}
 MultiLanguageNpcData['mx'][111267] = {name = "Vindicador Boros", subname = "Triunvirato de la Mano"}
 MultiLanguageNpcData['mx'][111268] = {name = "Aponi Crin Brillante", subname = "Jefa Caminasol"}

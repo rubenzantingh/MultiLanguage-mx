@@ -383,7 +383,7 @@ MultiLanguageNpcData['mx'][121404] = {name = "Objective Complete", subname = nil
 MultiLanguageNpcData['mx'][121405] = {name = "Objective Complete", subname = nil}
 MultiLanguageNpcData['mx'][121406] = {name = "Objective Complete", subname = nil}
 MultiLanguageNpcData['mx'][121407] = {name = "Objective Complete", subname = nil}
-MultiLanguageNpcData['mx'][121408] = {name = "Arator el Redentor", subname = nil}
+MultiLanguageNpcData['mx'][121408] = {name = "Arator", subname = nil}
 MultiLanguageNpcData['mx'][121409] = {name = "Caballero de la muerte de ébano", subname = nil}
 MultiLanguageNpcData['mx'][121410] = {name = "Vindicador Boros", subname = nil}
 MultiLanguageNpcData['mx'][121411] = {name = "Mirmidón Cicatriz Espiral", subname = nil}
@@ -663,7 +663,7 @@ MultiLanguageNpcData['mx'][121751] = {name = "Kill Credit: Go to Transport", sub
 MultiLanguageNpcData['mx'][121752] = {name = "Limoso", subname = "Esbirro del Rey Exánime"}
 MultiLanguageNpcData['mx'][121753] = {name = "Gran Almirante Jes-Tereth", subname = nil}
 MultiLanguageNpcData['mx'][121754] = {name = "Vereesa Brisaveloz", subname = "General Forestal del Pacto de Plata"}
-MultiLanguageNpcData['mx'][121755] = {name = "Arator el Redentor", subname = nil}
+MultiLanguageNpcData['mx'][121755] = {name = "Arator", subname = nil}
 MultiLanguageNpcData['mx'][121756] = {name = "Vindicador Boros", subname = "Mano de Argus"}
 MultiLanguageNpcData['mx'][121757] = {name = "Marino de la Séptima Legión", subname = nil}
 MultiLanguageNpcData['mx'][121758] = {name = "Cañonero de la Séptima Legión", subname = nil}
@@ -6653,7 +6653,7 @@ MultiLanguageNpcData['mx'][128779] = {name = "Aethas Atracasol", subname = nil}
 MultiLanguageNpcData['mx'][128780] = {name = "Crustájeo de batalla", subname = nil}
 MultiLanguageNpcData['mx'][128781] = {name = "Lady Liadrin", subname = "Matriarca de los Caballeros de sangre"}
 MultiLanguageNpcData['mx'][128782] = {name = "Vindicador Boros", subname = "Mano de Argus"}
-MultiLanguageNpcData['mx'][128783] = {name = "Arator el Redentor", subname = nil}
+MultiLanguageNpcData['mx'][128783] = {name = "Arator", subname = nil}
 MultiLanguageNpcData['mx'][128784] = {name = "Vereesa Brisaveloz", subname = "General Forestal del Pacto de Plata"}
 MultiLanguageNpcData['mx'][128785] = {name = "Vindicador Boros", subname = "Mano de Argus"}
 MultiLanguageNpcData['mx'][128786] = {name = "Robba Klobba", subname = nil}
@@ -9596,7 +9596,7 @@ MultiLanguageNpcData['mx'][132160] = {name = "Maestra de las enredaderas Smagh",
 MultiLanguageNpcData['mx'][132161] = {name = "Maestra de las enredaderas Orgsteen", subname = nil}
 MultiLanguageNpcData['mx'][132162] = {name = "Maestra de las enredaderas Guff", subname = nil}
 MultiLanguageNpcData['mx'][132163] = {name = "Guardián de la marea Pontus", subname = nil}
-MultiLanguageNpcData['mx'][132164] = {name = "Triturador Pantoque", subname = nil}
+MultiLanguageNpcData['mx'][132164] = {name = "Trituradora Pantoque", subname = nil}
 MultiLanguageNpcData['mx'][132165] = {name = "Controlador de pararrayos", subname = nil}
 MultiLanguageNpcData['mx'][132166] = {name = "Ian Glassel", subname = "Maestro del ferry"}
 MultiLanguageNpcData['mx'][132167] = {name = "REUSe", subname = nil}
@@ -35362,7 +35362,7 @@ MultiLanguageNpcData['mx'][160776] = {name = "Rynhild", subname = "Yugo de las F
 MultiLanguageNpcData['mx'][160777] = {name = "Karija", subname = "Las alas de la muerte"}
 MultiLanguageNpcData['mx'][160778] = {name = "Moraprofundidades hambriento", subname = nil}
 MultiLanguageNpcData['mx'][160779] = {name = "Devoravida velado", subname = nil}
-MultiLanguageNpcData['mx'][160780] = {name = "Bestia sísmica fusca", subname = nil}
+MultiLanguageNpcData['mx'][160780] = {name = "Devorador de almas merodeador", subname = nil}
 MultiLanguageNpcData['mx'][160781] = {name = "Devorador de almas carroñero", subname = nil}
 MultiLanguageNpcData['mx'][160782] = {name = "Malakas", subname = "La sombra sin fin"}
 MultiLanguageNpcData['mx'][160783] = {name = "Valioc", subname = nil}
